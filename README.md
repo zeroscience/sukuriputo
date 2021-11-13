@@ -1,0 +1,2 @@
+# sukuriputo
+Scripts
