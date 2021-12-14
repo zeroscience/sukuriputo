@@ -269,3 +269,4 @@
 269. CVE-2020-6974 - Honeywell Fire Alarm Web Server (NWS-3) Predictable Database Backup File Download
 270. CVE-2020-6777 - Bosch PRAESIDEO and PRAESENSA Stored Cross-Site Scripting (XSS)
 271. CVE-2020-6776 - Bosch PRAESIDEO and PRAESENSA Cross-Site Request Forgery (CSRF)
+272. CVE-2021-27860 - FatPipe Networks WARP/IPVPN/MPVPN 10.2.2 CSRF Add Admin Exploit
