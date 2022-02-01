@@ -275,3 +275,4 @@
 275. CVE-2021-27859 - FatPipe Networks WARP/IPVPN/MPVPN 10.2.2 CSRF Add Admin Exploit
 276. CVE-2021-27855 - FatPipe Networks WARP/IPVPN/MPVPN 10.2.2 Remote Privilege Escalation
 277. CVE-2021-27858 - FatPipe Networks WARP 10.2.2 Authorization Bypass
+278. CVE-2022-0365 - Ricon Industrial Cellular Router S9922XL Remote Command Execution
