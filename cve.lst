@@ -281,3 +281,11 @@
 281. CVE-2021-37291 - KevinLAB BEMS 1.0 Unauthenticated SQL Injection / Authentication Bypass
 282. CVE-2021-37293 - KevinLAB BEMS 1.0 Authenticated File Path Traversal Information Disclosure
 283. CVE-2021-43442 - i3 International Annexxus Cameras Ax-n 5.2.0 Application Logic Flaw
+284. CVE-2022-29734 - ICT Protege GX/WX 2.08 Authenticated Stored XSS Vulnerability
+285. CVE-2022-29731 - ICT Protege GX/WX 2.08 Client-Side SHA1 Password Hash Disclosure
+286. CVE-2022-29729 - Verizon 4G LTE Network Extender Weak Credentials Algorithm
+287. CVE-2022-29735 - Delta Controls enteliTOUCH 3.40.3935 Cross-Site Request Forgery (CSRF)
+288. CVE-2022-29732 - Delta Controls enteliTOUCH 3.40.3935 Cross-Site Scripting (XSS)
+289. CVE-2022-29733 - Delta Controls enteliTOUCH 3.40.3935 Cookie User Password Disclosure
+290. CVE-2022-29730 - USR IOT 4G LTE Industrial Cellular VPN Router 1.0.36 Remote Root Backdoor
+291. CVE-2022-30425 - Tenda HG6 v3.3.0 Remote Command Injection Vulnerability
