@@ -289,3 +289,6 @@
 289. CVE-2022-29733 - Delta Controls enteliTOUCH 3.40.3935 Cookie User Password Disclosure
 290. CVE-2022-29730 - USR IOT 4G LTE Industrial Cellular VPN Router 1.0.36 Remote Root Backdoor
 291. CVE-2022-30425 - Tenda HG6 v3.3.0 Remote Command Injection Vulnerability
+292. CVE-2022-32513 - Schneider Electric C-Bus Automation Controller (5500SHAC) 1.10 Remote Root Exploit
+293. CVE-2022-32514 - Schneider Electric C-Bus Automation Controller (5500SHAC) 1.10 Remote Root Exploit
+294. CVE-2022-34753 - Schneider Electric SpaceLogic C-Bus Home Controller (5200WHC2) Remote Root Exploit
