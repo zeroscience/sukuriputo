@@ -292,3 +292,4 @@
 292. CVE-2022-32513 - Schneider Electric C-Bus Automation Controller (5500SHAC) 1.10 Remote Root Exploit
 293. CVE-2022-32514 - Schneider Electric C-Bus Automation Controller (5500SHAC) 1.10 Remote Root Exploit
 294. CVE-2022-34753 - Schneider Electric SpaceLogic C-Bus Home Controller (5200WHC2) Remote Root Exploit
+295. CVE-2022-37314 - Ivanti Security Controls 2022.2 (9.5.9293.0) XML Insecure Deserialization Memory Corruption
