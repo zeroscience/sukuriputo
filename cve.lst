@@ -294,3 +294,5 @@
 294. CVE-2022-34753 - Schneider Electric SpaceLogic C-Bus Home Controller (5200WHC2) Remote Root Exploit
 295. CVE-2022-37314 - Ivanti Security Controls 2022.2 (9.5.9293.0) XML Insecure Deserialization Memory Corruption
 296. CVE-2022-37122 - Carel pCOWeb HVAC BACnet Gateway 2.1.0 Unauthenticated Directory Traversal
+297. CVE-2022-37060 - FLIR Systems FLIR AX8 Thermal Camera 1.32.16 Arbitrary File Disclosure
+298. CVE-2022-37061 - FLIR Systems FLIR AX8 Thermal Camera 1.32.16 Remote Root Exploit
