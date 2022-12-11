@@ -1,298 +1,298 @@
-1. CVE-2021-41294 - ECOA Building Automation System Arbitrary File Deletion
-2. CVE-2021-41293 - ECOA Building Automation System Local File Disclosure Vulnerability
-3. CVE-2021-41298 - ECOA Building Automation System Authorization Bypass / IDOR
-4. CVE-2021-41297 - ECOA Building Automation System Remote Privilege Escalation
-5. CVE-2021-41302 - ECOA Building Automation System Missing Encryption Of Sensitive Information
-6. CVE-2021-41299 - ECOA Building Automation System Hard-coded Credentials SSH Access
-7. CVE-2021-41300 - ECOA Building Automation System Hidden Backdoor Accounts and backdoor() Function
-8. CVE-2021-41301 - ECOA Building Automation System Configuration Download Information Disclosure
-9. CVE-2021-41292 - ECOA Building Automation System Cookie Poisoning Authentication Bypass
-10. CVE-2021-41295 - ECOA Building Automation System Cross-Site Request Forgery
-11. CVE-2021-41291 - ECOA Building Automation System Directory Traversal Content Disclosure
-12. CVE-2021-41290 - ECOA Building Automation System Path Traversal Arbitrary File Upload
-13. CVE-2021-41296 - ECOA Building Automation System Weak Default Credentials
-14. CVE-2021-32238 - Epic Games Rocket League 1.95 (AK::MemoryMgr::GetPoolName) Stack Buffer Overrun
-15. CVE-2021-31584 - Sipwise C5 NGCP CSC CSRF Click2Dial Exploit
-16. CVE-2021-31583 - Sipwise C5 NGCP CSC Multiple Stored/Reflected XSS Vulnerabilities
-17. CVE-2021-28267 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Privilege Escalation
-18. CVE-2021-28258 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Unauthenticated Config Download
-19. CVE-2021-28264 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Unauthenticated Device Reboot (DoS)
-20. CVE-2021-28256 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Unauthenticated Factory Reset
-21. CVE-2021-28255 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Unauthenticated Log Disclosure
-22. CVE-2021-28260 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Improper Access Control (IDOR)
-23. CVE-2021-28261 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Remote Code Execution (Backdoors)
-24. CVE-2021-28263 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Weak Default WiFi Password Algorithm
-25. CVE-2021-28259 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Hard-coded Credentials Shell Access
-26. CVE-2021-28257 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Authentication Bypass
-27. CVE-2021-28262 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Authenticated Command Injection
-28. CVE-2021-28269 - SOYAL 701Client 9.0.1 Insecure Permissions
-29. CVE-2021-28271 - SOYAL 701Server 9.0.1 Insecure Permissions
-30. CVE-2021-28268 - SOYAL Biometric Access Control System 5.0 CSRF Change Admin Password
-31. CVE-2021-28266 - SOYAL Biometric Access Control System 5.0 Weak Default Credentials
-32. CVE-2021-28265 - SOYAL Biometric Access Control System 5.0 Master Code Disclosure
-33. CVE-2021-26551 - SmartFoxServer 2X 2.17.0 God Mode Console Remote Code Execution
-34. CVE-2021-26550 - SmartFoxServer 2X 2.17.0 Credentials Disclosure
-35. CVE-2021-26549 - SmartFoxServer 2X 2.17.0 God Mode Console WebSocket XSS
-36. CVE-2020-15688 - EmbedThis GoAhead Web Server 5.1.1 Digest Authentication Capture Replay Nonce Reuse
-37. CVE-2020-22004 - B-swiss 3 Digital Signage System 3.6.5 Backdoor Remote Code Execution
-38. CVE-2020-22005 - B-swiss 3 Digital Signage System 3.6.5 CSRF Add Maintenance Admin
-39. CVE-2020-22006 - B-swiss 3 Digital Signage System 3.6.5 Database Disclosure
-40. CVE-2020-7382 - Rapid7 Nexpose Installer 6.6.39 Local Privilege Escalation
-41. CVE-2020-7356 - Cayin Digital Signage System xPost 2.5 Pre-Auth SQLi Remote Code Execution
-42. CVE-2020-7357 - Cayin Content Management Server 11.0 Root Remote Command Injection
-43. CVE-2020-12133 - Furukawa Electric ConsciusMAP 2.8.1 Java Deserialization Remote Code Execution
-44. CVE-2020-12134 - Nanometrics Centaur / TitanSMA Unauthenticated Remote Memory Leak Exploit
-45. CVE-2020-12132 - Fifthplay S.A.M.I - Service And Management Interface Unauthenticated Stored XSS
-46. CVE-2020-22000 - HomeAutomation v3.3.2 CSRF Remote Command Execution (PHP Reverse Shell) PoC
-47. CVE-2020-21998 - HomeAutomation v3.3.2 Open Redirect
-48. CVE-2020-21989 - HomeAutomation v3.3.2 CSRF Add Admin Exploit
-49. CVE-2020-22001 - HomeAutomation v3.3.2 Authentication Bypass Exploit
-50. CVE-2020-21987 - HomeAutomation v3.3.2 Stored and Reflected XSS
-51. CVE-2020-21990 - MyDomoAtHome (MDAH) REST API Domoticz ISS Gateway 0.2.40 Information Disclosure
-52. CVE-2020-22003 - WEMS BEMS 21.3.1 Undocumented Backdoor Account
-53. CVE-2020-21993 - WEMS Enterprise Manager 2.58 (email) Reflected XSS
-54. CVE-2020-21994 - AVE DOMINAplus <=1.10.x Credentials Disclosure Exploit
-55. CVE-2020-21991 - AVE DOMINAplus <=1.10.x Authentication Bypass Exploit
-56. CVE-2020-21996 - AVE DOMINAplus <=1.10.x Unauthenticated Remote Reboot
-57. CVE-2020-21988 - AVE DOMINAplus <=1.10.x CSRF/XSS Vulnerabilities
-58. CVE-2020-21995 - Inim Electronics Smartliving SmartLAN/G/SI &lt;=6.x Hard-coded Credentials
-59. CVE-2020-22002 - Inim Electronics Smartliving SmartLAN/G/SI &lt;=6.x Unauthenticated SSRF
-60. CVE-2020-21992 - Inim Electronics SmartLiving SmartLAN/G/SI &lt;=6.x Root Remote Command Execution
-61. CVE-2019-13927 - Siemens Desigo PX V6.00 Web Remote Denial of Service Exploit
-62. CVE-2020-21997 - Smartwares HOME easy v1.0.9 Database Backup Information Disclosure Exploit
-63. CVE-2019-1262 - Microsoft SharePoint 2013 SP1 Stored XSS Vulnerability
-64. CVE-2019-15827 - WordPress Plugin OneSignal 1.17.5 Persistent Cross-Site Scripting
-65. CVE-2020-21999 - FaceSentry Access Control System 6.4.8 Remote Root Exploit
-66. CVE-2019-7590 - exacqVision 9.8 Unquoted Service Path Privilege Escalation
-67. CVE-2018-18428 - TP-Link TL-SC3130 1.6.18 Unauthenticated RTSP Stream Disclosure Vulnerability
-68. CVE-2018-10619 - Rockwell Automation RSLinx Classic and FactoryTalk Linx Gateway Privilege Escalation
-69. CVE-2018-9161 - Prisma Industriale Checkweigher PrismaWEB 1.21 Authentication Bypass
-70. CVE-2017-9650 - Automated Logic WebCTRL 6.5 Unrestricted File Upload Remote Code Execution
-71. CVE-2017-9640 - Automated Logic WebCTRL 6.1 Path Traversal Arbitrary File Write
-72. CVE-2017-9644 - Automated Logic WebCTRL 6.5 Insecure File Permissions Privilege Escalation
-73. CVE-2017-9964 - Schneider Electric Pelco VideoXpert Missing Encryption Of Sensitive Information
-74. CVE-2017-9965 - Schneider Electric Pelco VideoXpert Core Admin Portal Directory Traversal
-75. CVE-2017-9966 - Schneider Electric Pelco VideoXpert Privilege Escalations
-76. CVE-2018-7829 - Schneider Electric Pelco Sarix/Spectra Cameras Root Remote Code Execution
-77. CVE-2018-7236 - Schneider Electric Pelco Sarix/Spectra Cameras CSRF Enable SSH Root Access
-78. CVE-2018-7827 - Schneider Electric Pelco Sarix/Spectra Cameras Multiple XSS Vulnerabilities
-79. CVE-2011-2461 - Dell SonicWALL Global Management System (GMS) 8.1 Adobe Flex SOP Bypass
-80. CVE-2015-8979 - DCMTK storescp DICOM storage (C-STORE) SCP Remote Stack Buffer Overflow
-81. CVE-2016-1606 - Micro Focus Rumba+ v9.4 Multiple Stack Buffer Overflow Vulnerabilities
-82. CVE-2016-5228 - Micro Focus Rumba+ v9.4 Multiple Stack Buffer Overflow Vulnerabilities
-83. CVE-2016-3968 - Sophos Cyberoam NG Series Multiple Cross-Site Scripting Vulnerabilities
-84. CVE-2015-2080 - Inductive Automation Ignition 7.8.1 Remote Leakage Of Shared Buffers
-85. CVE-2015-7714 - Realtyna RPL 8.9.2 Joomla Extension Multiple SQL Injection Vulnerabilities
-86. CVE-2015-7715 - Realtyna RPL 8.9.2 Joomla Extension Persistent XSS And CSRF Vulnerabilities
-87. CVE-2015-5285 - Kallithea 0.2.9 (came_from) HTTP Response Splitting Vulnerability
-88. CVE-2015-7904 - Mango Automation 2.6.0 CSRF File Upload And Arbitrary JSP Code Execution
-89. CVE-2015-7901 - Mango Automation 2.6.0 CSRF Arbitrary Command Execution Exploit
-90. CVE-2015-7900 - Mango Automation 2.6.0 Unprotected Debug Log View Vulnerability
-91. CVE-2015-7903 - Mango Automation 2.6.0 CSRF Arbitrary SQL Query Execution
-92. CVE-2015-6493 - Mango Automation 2.6.0 CSRF Add Admin Exploit
-93. CVE-2015-6494 - Mango Automation 2.6.0 Remote XSS POST Injection Vulnerability
-94. CVE-2015-7902 - Mango Automation 2.6.0 User Enumeration Weakness
-95. CVE-2015-5530 - ArticleFR 3.0.6 CSRF Add Admin Exploit
-96. CVE-2015-5529 - ArticleFR 3.0.6 Multiple Script Injection Vulnerabilities
-97. CVE-2015-2269 - Moodle 2.5.9/2.6.8/2.7.5/2.8.3 Block Title Handler Cross-Site Scripting
-98. CVE-2015-2789 - Foxit Reader 7.0.6.1126 Unquoted Service Path Elevation Of Privilege
-99. CVE-2015-2680 - GeniXCMS v0.0.1 CSRF Add Admin Exploit
-100. CVE-2015-2678 - GeniXCMS v0.0.1 Persistent Script Insertion Vulnerability
-101. CVE-2015-2679 - GeniXCMS v0.0.1 Remote Unauthenticated SQL Injection Exploit
-102. CVE-2015-1578 - u5CMS 3.9.3 Multiple Open Redirect Vulnerabilities
-103. CVE-2015-1577 - u5CMS 3.9.3 (deletefile.php) Arbitrary File Deletion Vulnerability
-104. CVE-2015-1576 - u5CMS 3.9.3 Multiple SQL Injection Vulnerabilities
-105. CVE-2015-1575 - u5CMS 3.9.3 Multiple Stored And Reflected XSS Vulnerabilities
-106. CVE-2015-1422 - Gecko CMS 2.3 Multiple Vulnerabilities
-107. CVE-2015-1059 - AdaptCMS 3.0.3 Remote Command Execution Exploit
-108. CVE-2015-1060 - AdaptCMS 3.0.3 HTTP Referer Header Field Open Redirect Vulnerability
-109. CVE-2015-1058 - AdaptCMS 3.0.3 Multiple Persistent XSS Vulnerabilities
-110. CVE-2014-10011 - TRENDnet SecurView Wireless Network Camera TV-IP422WN (UltraCamX.ocx) Stack BoF
-111. CVE-2014-9350 - TP-Link TL-WR740N Wireless Router MitM httpd Denial Of Service
-112. CVE-2014-9343 - Snowfox CMS v1.0 (rd param) Open Redirect Vulnerability
-113. CVE-2014-9344 - Snowfox CMS v1.0 CSRF Add Admin Exploit
-114. CVE-2014-8653 - CBN CH6640E/CG6640E Wireless Gateway Series Multiple Vulnerabilities
-115. CVE-2014-8654 - CBN CH6640E/CG6640E Wireless Gateway Series Multiple Vulnerabilities
-116. CVE-2014-8655 - CBN CH6640E/CG6640E Wireless Gateway Series Multiple Vulnerabilities
-117. CVE-2014-8656 - CBN CH6640E/CG6640E Wireless Gateway Series Multiple Vulnerabilities
-118. CVE-2014-8657 - CBN CH6640E/CG6640E Wireless Gateway Series Multiple Vulnerabilities
-119. CVE-2014-8577 - Croogo 2.0.0 Multiple Stored XSS Vulnerabilities
-120. CVE-2014-9101 - SkaDate Lite 2.0 Multiple XSRF And Persistent XSS Vulnerabilities
-121. CVE-2014-9101 - Oxwall 1.7.0 Multiple CSRF And HTML Injection Vulnerabilities
-122. CVE-2014-5100 - Omeka 2.2 CSRF And Stored XSS Vulnerability
-123. CVE-2014-5455 - OpenVPN Private Tunnel Core Service Unquoted Service Path Elevation Of Privilege
-124. CVE-2014-5453 - Ubisoft Uplay 4.6 Insecure File Permissions Local Privilege Escalation
-125. CVE-2014-5349 - Baidu Spark Browser v26.5.9999.3511 Remote Stack Overflow Vulnerability (DoS)
-126. CVE-2014-4718 - Lunar CMS 3.3 CSRF And Stored XSS Vulnerability
-127. CVE-2014-4334 - Ubisoft Rayman Legends v1.2.103716 Remote Stack Buffer Overflow Vulnerability
-128. CVE-2014-4034 - ZeroCMS 1.0 (article_id) SQL Injection Vulnerability
-129. CVE-2014-3222 - Huawei Technologies eSpace Meeting Service 1.0.0.23 Local Privilege Escalation
-130. CVE-2014-10034 - couponPHP CMS 1.0 Multiple Stored XSS and SQL Injection Vulnerabilities
-131. CVE-2014-10035 - couponPHP CMS 1.0 Multiple Stored XSS and SQL Injection Vulnerabilities
-132. CVE-2014-10008 - Stark CRM v1.0 Multiple Script Injection And Session Riding Vulnerabilities
-133. CVE-2014-10009 - Stark CRM v1.0 Multiple Script Injection And Session Riding Vulnerabilities
-134. CVE-2013-5640 - Gnew v2013.1 Multiple XSS And SQL Injection Vulnerabilities
-135. CVE-2013-5319 - Atlassian JIRA v6.0.3 Arbitrary HTML/Script Execution Vulnerability
-136. CVE-2013-2226 - GLPI v0.83.8 Multiple Error-based SQL Injection Vulnerabilities
-137. CVE-2013-2227 - GLPI v0.83.7 (itemtype) Parameter Traversal Arbitrary File Access Exploit
-138. CVE-2013-3535 - CMSLogik 1.2.1 Multiple Persistent XSS Vulnerabilities
-139. CVE-2013-1469 - Piwigo 2.4.6 (install.php) Remote Arbitrary File Read/Delete Vulnerability
-140. CVE-2013-5123 - phlyLabs phlyMail Lite 4.03.04 (go param) Open Redirect Vulnerability
-141. CVE-2012-4773 - Subrion CMS 2.2.1 CSRF Add Admin Exploit
-142. CVE-2011-5211 - Subrion CMS 2.2.1 Multiple Remote XSS POST Injection Vulnerabilities
-143. CVE-2012-2171 - IBM System Storage DS Storage Manager Profiler Multiple Vulnerabilities
-144. CVE-2012-2172 - IBM System Storage DS Storage Manager Profiler Multiple Vulnerabilities
-145. CVE-2012-0677 - Apple iTunes 10.6.1.7 M3U Playlist File Walking Heap Buffer Overflow
-146. CVE-2012-2905 - Artiphp CMS 5.5.0 Database Backup Disclosure Exploit
-147. CVE-2012-2906 - Artiphp CMS v5.5.0 Multiple XSS POST Injection Vulnerabilities
-148. CVE-2012-2911 - backupDB() v1.2.7a (onlyDB) Remote XSS Vulnerability
-149. CVE-2012-2910 - phpThumb() v1.7.11 (dir & title) Cross-Site Scripting Vulnerability
-150. CVE-2012-3836 - Baby Gekko CMS v1.1.5c Multiple Stored Cross-Site Scripting Vulnerabilities
-151. CVE-2012-2740 - phpList 2.10.17 Remote SQL Injection and XSS Vulnerability
-152. CVE-2012-2741 - phpList 2.10.17 Remote SQL Injection and XSS Vulnerability
-153. CVE-2012-4864 - Oreans WinLicense v2.1.8.0 XML File Handling Unspecified Memory Corruption
-154. CVE-2012-4865 - Oreans Themida v2.1.8.0 TMD File Handling Buffer Overflow Vulnerability
-155. CVE-2012-1790 - webgrind 1.0 (file param) Local File Inclusion Vulnerability
-156. CVE-2012-4755 - SciTools Understand 2.6 (wintab32.dll) DLL Loading Arbitrary Code Execution
-157. CVE-2012-1049 - ManageEngine ADManager Plus 5.2 Multiple XSS Vulnerabilities
-158. CVE-2012-4754 - Mindjet MindManager 2012 v10.0.493 Multiple Remote Vulnerabilities
-159. CVE-2012-5324 - Tracker Software pdfSaver ActiveX 3.60 (pdfxctrl.dll) Stack Buffer Overflow (SEH)
-160. CVE-2012-5343 - Limny 3.0.1 (login.php) Remote URI Based Cross-Site Scripting Vulnerability
-161. CVE-2011-5039 - Infoproject Biznis Heroj (login.php) Authentication Bypass Vulnerability
-162. CVE-2011-5039 - Infoproject Biznis Heroj (XSS/SQLi) Multiple Remote Vulnerabilities
-163. CVE-2011-5040 - Infoproject Biznis Heroj (XSS/SQLi) Multiple Remote Vulnerabilities
-164. CVE-2011-5044 - SopCast 3.4.7 (Diagnose.exe) Improper Permissions
-165. CVE-2011-4709 - Hotaru CMS 1.4.2 SITE_NAME Parameter Stored XSS Vulnerability
-166. CVE-2011-5116 - SetSeed CMS 5.8.20 (loggedInUser) Remote SQL Injection Vulnerability
-167. CVE-2011-2443 - Adobe Photoshop Elements 8.0 Multiple Arbitrary Code Execution Vulnerabilities
-168. CVE-2011-0614 - Adobe Audition 3.0 (build 7283) Session File Handling Buffer Overflow PoC
-169. CVE-2011-5155 - Help & Manual Professional Edition 5.5.1 (ijl15.dll) DLL Hijacking Exploit
-170. CVE-2011-1100 - Pixelpost 1.7.3 Multiple POST Variables SQL Injection Vulnerability
-171. CVE-2011-1062 - TaskFreak! v0.6.4 Multiple Cross-Site Scripting Vulnerabilities
-172. CVE-2010-4350 - MantisBT <=1.2.3 (db_type) Local File Inclusion Vulnerability
-173. CVE-2010-4348 - MantisBT <=1.2.3 (db_type) Cross-Site Scripting & Path Disclosure Vulnerability
-174. CVE-2010-4155 - eXV² Content Management System 2.10 Remote XSS Vulnerability
-175. CVE-2010-3489 - Netautor Professional 5.5.0 (goback) XSS Vulnerability
-176. CVE-2010-4901 - MySource Matrix 3.28.3 (height) Remote Reflected XSS Vulnerability
-177. CVE-2010-3137 - Nullsoft Winamp 5.581 (wnaspi32.dll) DLL Hijacking Exploit
-178. CVE-2010-3138 - Media Player Classic 6.4.9.1 (iacenc.dll) DLL Hijacking Exploit
-179. CVE-2010-3134 - Google Earth v5.1.3535.3218 (quserex.dll) DLL Hijacking Exploit
-180. CVE-2010-3155 - Adobe ExtendedScript Toolkit CS5 v3.5.0.52 (dwmapi.dll) DLL Hijacking Exploit
-181. CVE-2010-3154 - Adobe Extension Manager CS5 v5.0.298 (dwmapi.dll) DLL Hijacking Exploit
-182. CVE-2010-2204 - Adobe Reader 9.3.2 (CoolType.dll) Remote Memory Corruption / DoS Vulnerability
-183. CVE-2010-2321 - Adobe InDesign CS3 INDD File Handling Buffer Overflow Vulnerability
-184. CVE-2010-1296 - Adobe Photoshop CS4 Extended 11.0 ABR File Handling Remote Buffer Overflow PoC
-185. CVE-2010-1296 - Adobe Photoshop CS4 Extended 11.0 GRD File Handling Remote Buffer Overflow PoC
-186. CVE-2010-1296 - Adobe Photoshop CS4 Extended 11.0 ASL File Handling Remote Buffer Overflow PoC
-187. CVE-2010-1280 - Adobe Shockwave Player 11.5.6.606 (DIR) Multiple Memory Vulnerabilities
-188. CVE-2010-2009 - BS.Player v2.51 build 1022 (Media Library) Remote Buffer Overflow Vulnerability
-189. CVE-2011-1087 - VLC media player 1.0.5 Goldeneye (bookmarks) Remote Buffer Overflow PoC
-190. CVE-2010-0700 - WampServer 2.0i (index.php) Remote Cross Site Scripting Vulnerability
-191. CVE-2009-3811 - Music Tag Editor 1.61 build 212 Remote Buffer Overflow PoC
-192. CVE-2009-3859 - eEye Retina WiFi Security Scanner 1.0 (.rws Parsing) Buffer Overflow PoC
-193. CVE-2009-2173 - Carom3D 5.06 Unicode Buffer Overrun/DoS Vulnerability
-194. CVE-2009-4201 - Mp3 Tag Assistant Pro 2.92 (tag metadata) Remote Stack Overflow PoC
-195. CVE-2009-1944 - AIMP 2.51 build 330 (ID3v1/ID3v2 Tag) Remote Stack Buffer Overflow PoC (SEH)
-196. CVE-2009-1660 - ViPlay3 <= 3.00 (.vpl) Local Stack Overflow PoC
-197. CVE-2009-0450 - BlazeVideo HDTV Player <= 3.5 PLF Playlist File Remote Buffer Overflow Exploit
-198. CVE-2009-0349 - FTPShell Server 4.3 (licence key) Remote Buffer Overflow PoC
-199. CVE-2008-7079 - Nero ShowTime 5.0.15.0 m3u Playlist File Remote Buffer Overflow PoC
-200. CVE-2008-4748 - KVIrc 3.4.0 Virgo Remote Format String Exploit PoC
-201. CVE-2008-4588 - Eserv 3.x FTP Server (ABOR) Remote Stack Overflow PoC
-202. CVE-2008-5667 - VBA32 Personal Antivirus 3.12.8.x (malformed archive) DoS Exploit
-203. CVE-2008-2032 - Femitter FTP Server 1.03 (RETR) Remote Denial of Service Exploit PoC
-204. CVE-2014-9415 - Huawei eSpace Meeting 1.1.11.103 'cenwpoll.dll' SEH Buffer Overflow (Unicode)
-205. CVE-2014-9416 - Huawei eSpace Meeting 1.1.11.103 DLL Hijacking
-206. CVE-2014-9417 - Huawei eSpace Meeting 1.1.11.103 Image File Format Handling Buffer Overflow
-207. CVE-2014-9418 - Huawei eSpace Meeting 1.1.11.103 'ContactsCtrl.dll' / 'eSpaceStatusCtrl.dll' ActiveX Heap Overflow
-208. CVE-2018-7783 - Schneider Electric EcoStruxure Machine Experts SoMachine Basic 1.6.0 XXE OOB Remote Arbitrary Data Retrieval
-209. CVE-2018-10600 - Schweitzer Engineering Laboratories AcSELerator Architect 2.2.24.0 XML External Entity (XXE) OOB Processing
-210. CVE-2018-10604 - Schweitzer Engineering Laboratories AcSELerator Architect 2.2.24.0 Insecure File Permissions Privilege Escalation Vulnerability
-211. CVE-2018-10608 - Schweitzer Engineering Laboratories AcSELerator Architect 2.2.24.0 CPU Exhaustion Denial of Service (DoS)
-212. CVE-2018-17912 - SAUTER CASE Suite XML External Entity Injection Remote Arbitrary Data Retrieval
-213. CVE-2018-19009 - Pilz PNOZmulti Configurator Cleartext Storage of Sensitive Information
-214. CVE-2019-10846 - Computrols CBAS-Web 19.0.0 Cross-Site Scripting
-215. CVE-2019-10847 - Computrols CBAS-Web 19.0.0 CSRF
-216. CVE-2019-10848 - Computrols CBAS-Web 19.0.0 Username Enumeration
-217. CVE-2019-10849 - Computrols CBAS-Web 19.0.0 SVN Source Code Disclosure
-218. CVE-2019-10850 - Computrols CBAS-Web 19.0.0 Default Credentials
-219. CVE-2019-10851 - Computrols CBAS-Web 19.0.0 Hardcoded Encryption Keys
-220. CVE-2019-10852 - Computrols CBAS-Web 19.0.0 SQL Injection
-221. CVE-2019-10853 - Computrols CBAS-Web 19.0.0 Authentication Bypass
-222. CVE-2019-10854 - Computrols CBAS-Web 19.0.0 Command Injection
-223. CVE-2019-10855 - Computrols CBAS-Web 19.0.0 Mishandling Of Password Hashes
-224. CVE-2019-7272 - Optergy Proton / Enterprise 2.3.0a Username Disclosure
-225. CVE-2019-7273 - Optergy Proton / Enterprise 2.3.0a Cross-Site Request Forgery (CSRF)
-226. CVE-2019-7274 - Optergy Proton / Enterprise 2.3.0a Unrestricted File Upload
-227. CVE-2019-7275 - Optergy Proton / Enterprise 2.3.0a URL Redirection
-228. CVE-2019-7276 - Optergy Proton / Enterprise 2.3.0a Backdoor Unauthenticated Remote Code Execution
-229. CVE-2019-7278 - Optergy Proton / Enterprise 2.3.0a Information Disclosure
-230. CVE-2019-7279 - Optergy Proton / Enterprise 2.3.0a Hard-coded Credentials
-231. CVE-2019-7669 - Prima Systems FlexAir 2.3.38 Unrestricted File Upload
-232. CVE-2019-7670 - Prima Systems FlexAir 2.3.38 OS Command Injection
-233. CVE-2019-7671 - Prima Systems FlexAir 2.3.38 XSS
-234. CVE-2019-7672 - Prima Systems FlexAir 2.3.38 Hard-coded Credentials
-235. CVE-2019-7280 - Prima Systems FlexAir 2.3.38 Insufficient Session-ID Length
-236. CVE-2019-7281 - Prima Systems FlexAir 2.3.38 CSRF
-237. CVE-2019-7666 - Prima Systems FlexAir 2.3.38 Authentication With MD5 Hash
-238. CVE-2019-7667 - Prima Systems FlexAir 2.3.38 Predictable Database Name Download
-239. CVE-2019-7668 - Prima Systems FlexAir 2.3.38 Default Credentials
-240. CVE-2019-9189 - Prima Systems FlexAir 2.3.38 Python Script Upload Remote Code Execution
-241. CVE-2019-7266 - Nortek Linear eMerge 50P/5000P 4.6.07 Authentication Bypass Remote Code Execution
-242. CVE-2019-7267 - Nortek Linear eMerge 50P/5000P 4.6.07 Directory Traversal
-243. CVE-2019-7268 - Nortek Linear eMerge 50P/5000P 4.6.07 Unrestricted File Upload
-244. CVE-2019-7269 - Nortek Linear eMerge 50P/5000P 4.6.07 Command Injection
-245. CVE-2019-7270 - Nortek Linear eMerge 50P/5000P 4.6.07 CSRF
-246. CVE-2019-7271 - Nortek Linear eMerge 50P/5000P 4.6.07 Default Credentials
-247. CVE-2019-7252 - Nortek Linear eMerge E3-Series 1.00-06 Default Credentials
-248. CVE-2019-7253 - Nortek Linear eMerge E3-Series 1.00-06 File Path Traversal
-249. CVE-2019-7254 - Nortek Linear eMerge E3-Series 1.00-06 Directory Traversal
-250. CVE-2019-7255 - Nortek Linear eMerge E3-Series 1.00-06 Cross-Site Scripting (XSS)
-251. CVE-2019-7256 - Nortek Linear eMerge E3-Series 1.00-06 Command Injection
-252. CVE-2019-7257 - Nortek Linear eMerge E3-Series 1.00-06 Unrestricted File Upload
-253. CVE-2019-7258 - Nortek Linear eMerge E3-Series 1.00-06 Privilege Escalation
-254. CVE-2019-7259 - Nortek Linear eMerge E3-Series 1.00-06 Authorization Bypass
-255. CVE-2019-7260 - Nortek Linear eMerge E3-Series 1.00-06 Clear-text Storage of Passwords
-256. CVE-2019-7261 - Nortek Linear eMerge E3-Series 1.00-06 Hard-coded Credentials
-257. CVE-2019-7262 - Nortek Linear eMerge E3-Series 1.00-06 CSRF
-258. CVE-2019-7263 - Nortek Linear eMerge E3-Series 1.00-06 Version Control Failure
-259. CVE-2019-7264 - Nortek Linear eMerge E3-Series 1.00-06 Stack-based Buffer Overflow ARM Platform
-260. CVE-2019-7265 - Nortek Linear eMerge E3-Series 1.00-06 Root Access Over SSH
-261. CVE-2019-18245 - Reliable Controls LicenseManager 3.4 Privilege Escalation
-262. CVE-2019-18249 - Reliable Controls MACH-ProWeb 2.10 Reflected XSS Vulnerability
-263. CVE-2020-10599 - VISAM Automation Base (VBASE) HMI / SCADA 11.5.0.2 Buffer Overflow
-264. CVE-2020-10601 - VISAM Automation Base (VBASE) HMI / SCADA 11.5.0.2 Password Protection Security Bypass
-265. CVE-2020-7000 - VISAM Automation Base (VBASE) HMI / SCADA 11.5.0.2 Cryptographic Key Disclosure
-266. CVE-2020-7004 - VISAM Automation Base (VBASE) HMI / SCADA 11.5.0.2 Insecure File Permissions Privilege Escalation
-267. CVE-2020-7008 - VISAM Automation Base (VBASE) HMI / SCADA 11.5.0.2 Information Disclosure via Directory Traversal
-268. CVE-2020-6972 - Honeywell Fire Alarm Web Server (NWS-3) Authentication Bypass By Capture-Replay
-269. CVE-2020-6974 - Honeywell Fire Alarm Web Server (NWS-3) Predictable Database Backup File Download
-270. CVE-2020-6777 - Bosch PRAESIDEO and PRAESENSA Stored Cross-Site Scripting (XSS)
-271. CVE-2020-6776 - Bosch PRAESIDEO and PRAESENSA Cross-Site Request Forgery (CSRF)
-272. CVE-2021-27860 - FatPipe Networks WARP/IPVPN/MPVPN 10.2.2 Unauthenticated File Upload / Remote Code Execution
-273. CVE-2021-27856 - FatPipe Networks WARP/IPVPN/MPVPN 10.2.2 Hidden Backdoor Account (Write Access)
-274. CVE-2021-27857 - FatPipe Networks WARP/IPVPN/MPVPN 10.2.2 Unauthenticated Config Download
-275. CVE-2021-27859 - FatPipe Networks WARP/IPVPN/MPVPN 10.2.2 CSRF Add Admin Exploit
-276. CVE-2021-27855 - FatPipe Networks WARP/IPVPN/MPVPN 10.2.2 Remote Privilege Escalation
-277. CVE-2021-27858 - FatPipe Networks WARP 10.2.2 Authorization Bypass
-278. CVE-2022-0365 - Ricon Industrial Cellular Router S9922XL Remote Command Execution
-279. CVE-2022-25359 - ICL ScadaFlex II SCADA Controllers SC-1/SC-2 1.03.07 Remote File CRUD
-280. CVE-2021-37292 - KevinLAB BEMS 1.0 Undocumented Backdoor Account
-281. CVE-2021-37291 - KevinLAB BEMS 1.0 Unauthenticated SQL Injection / Authentication Bypass
-282. CVE-2021-37293 - KevinLAB BEMS 1.0 Authenticated File Path Traversal Information Disclosure
-283. CVE-2021-43442 - i3 International Annexxus Cameras Ax-n 5.2.0 Application Logic Flaw
-284. CVE-2022-29734 - ICT Protege GX/WX 2.08 Authenticated Stored XSS Vulnerability
-285. CVE-2022-29731 - ICT Protege GX/WX 2.08 Client-Side SHA1 Password Hash Disclosure
-286. CVE-2022-29729 - Verizon 4G LTE Network Extender Weak Credentials Algorithm
-287. CVE-2022-29735 - Delta Controls enteliTOUCH 3.40.3935 Cross-Site Request Forgery (CSRF)
-288. CVE-2022-29732 - Delta Controls enteliTOUCH 3.40.3935 Cross-Site Scripting (XSS)
-289. CVE-2022-29733 - Delta Controls enteliTOUCH 3.40.3935 Cookie User Password Disclosure
-290. CVE-2022-29730 - USR IOT 4G LTE Industrial Cellular VPN Router 1.0.36 Remote Root Backdoor
-291. CVE-2022-30425 - Tenda HG6 v3.3.0 Remote Command Injection Vulnerability
-292. CVE-2022-32513 - Schneider Electric C-Bus Automation Controller (5500SHAC) 1.10 Remote Root Exploit
-293. CVE-2022-32514 - Schneider Electric C-Bus Automation Controller (5500SHAC) 1.10 Remote Root Exploit
-294. CVE-2022-34753 - Schneider Electric SpaceLogic C-Bus Home Controller (5200WHC2) Remote Root Exploit
-295. CVE-2022-37314 - Ivanti Security Controls 2022.2 (9.5.9293.0) XML Insecure Deserialization Memory Corruption
-296. CVE-2022-37122 - Carel pCOWeb HVAC BACnet Gateway 2.1.0 Unauthenticated Directory Traversal
-297. CVE-2022-37060 - FLIR Systems FLIR AX8 Thermal Camera 1.32.16 Arbitrary File Disclosure
-298. CVE-2022-37061 - FLIR Systems FLIR AX8 Thermal Camera 1.32.16 Remote Root Exploit
+CVE-2008-2032 - Femitter FTP Server 1.03 (RETR) Remote Denial of Service Exploit PoC
+CVE-2008-4588 - Eserv 3.x FTP Server (ABOR) Remote Stack Overflow PoC
+CVE-2008-4748 - KVIrc 3.4.0 Virgo Remote Format String Exploit PoC
+CVE-2008-5667 - VBA32 Personal Antivirus 3.12.8.x (malformed archive) DoS Exploit
+CVE-2008-7079 - Nero ShowTime 5.0.15.0 m3u Playlist File Remote Buffer Overflow PoC
+CVE-2009-0349 - FTPShell Server 4.3 (licence key) Remote Buffer Overflow PoC
+CVE-2009-0450 - BlazeVideo HDTV Player <= 3.5 PLF Playlist File Remote Buffer Overflow Exploit
+CVE-2009-1660 - ViPlay3 <= 3.00 (.vpl) Local Stack Overflow PoC
+CVE-2009-1944 - AIMP 2.51 build 330 (ID3v1/ID3v2 Tag) Remote Stack Buffer Overflow PoC (SEH)
+CVE-2009-2173 - Carom3D 5.06 Unicode Buffer Overrun/DoS Vulnerability
+CVE-2009-3811 - Music Tag Editor 1.61 build 212 Remote Buffer Overflow PoC
+CVE-2009-3859 - eEye Retina WiFi Security Scanner 1.0 (.rws Parsing) Buffer Overflow PoC
+CVE-2009-4201 - Mp3 Tag Assistant Pro 2.92 (tag metadata) Remote Stack Overflow PoC
+CVE-2010-0700 - WampServer 2.0i (index.php) Remote Cross Site Scripting Vulnerability
+CVE-2010-1280 - Adobe Shockwave Player 11.5.6.606 (DIR) Multiple Memory Vulnerabilities
+CVE-2010-1296 - Adobe Photoshop CS4 Extended 11.0 ASL File Handling Remote Buffer Overflow PoC
+CVE-2010-1296 - Adobe Photoshop CS4 Extended 11.0 GRD File Handling Remote Buffer Overflow PoC
+CVE-2010-1296 - Adobe Photoshop CS4 Extended 11.0 ABR File Handling Remote Buffer Overflow PoC
+CVE-2010-2009 - BS.Player v2.51 build 1022 (Media Library) Remote Buffer Overflow Vulnerability
+CVE-2010-2204 - Adobe Reader 9.3.2 (CoolType.dll) Remote Memory Corruption / DoS Vulnerability
+CVE-2010-2321 - Adobe InDesign CS3 INDD File Handling Buffer Overflow Vulnerability
+CVE-2010-3134 - Google Earth v5.1.3535.3218 (quserex.dll) DLL Hijacking Exploit
+CVE-2010-3137 - Nullsoft Winamp 5.581 (wnaspi32.dll) DLL Hijacking Exploit
+CVE-2010-3138 - Media Player Classic 6.4.9.1 (iacenc.dll) DLL Hijacking Exploit
+CVE-2010-3154 - Adobe Extension Manager CS5 v5.0.298 (dwmapi.dll) DLL Hijacking Exploit
+CVE-2010-3155 - Adobe ExtendedScript Toolkit CS5 v3.5.0.52 (dwmapi.dll) DLL Hijacking Exploit
+CVE-2010-3489 - Netautor Professional 5.5.0 (goback) XSS Vulnerability
+CVE-2010-4155 - eXV² Content Management System 2.10 Remote XSS Vulnerability
+CVE-2010-4348 - MantisBT <=1.2.3 (db_type) Cross-Site Scripting & Path Disclosure Vulnerability
+CVE-2010-4350 - MantisBT <=1.2.3 (db_type) Local File Inclusion Vulnerability
+CVE-2010-4901 - MySource Matrix 3.28.3 (height) Remote Reflected XSS Vulnerability
+CVE-2011-0614 - Adobe Audition 3.0 (build 7283) Session File Handling Buffer Overflow PoC
+CVE-2011-1062 - TaskFreak! v0.6.4 Multiple Cross-Site Scripting Vulnerabilities
+CVE-2011-1087 - VLC media player 1.0.5 Goldeneye (bookmarks) Remote Buffer Overflow PoC
+CVE-2011-1100 - Pixelpost 1.7.3 Multiple POST Variables SQL Injection Vulnerability
+CVE-2011-2443 - Adobe Photoshop Elements 8.0 Multiple Arbitrary Code Execution Vulnerabilities
+CVE-2011-2461 - Dell SonicWALL Global Management System (GMS) 8.1 Adobe Flex SOP Bypass
+CVE-2011-4709 - Hotaru CMS 1.4.2 SITE_NAME Parameter Stored XSS Vulnerability
+CVE-2011-5039 - Infoproject Biznis Heroj (login.php) Authentication Bypass Vulnerability
+CVE-2011-5039 - Infoproject Biznis Heroj (XSS/SQLi) Multiple Remote Vulnerabilities
+CVE-2011-5040 - Infoproject Biznis Heroj (XSS/SQLi) Multiple Remote Vulnerabilities
+CVE-2011-5044 - SopCast 3.4.7 (Diagnose.exe) Improper Permissions
+CVE-2011-5116 - SetSeed CMS 5.8.20 (loggedInUser) Remote SQL Injection Vulnerability
+CVE-2011-5155 - Help & Manual Professional Edition 5.5.1 (ijl15.dll) DLL Hijacking Exploit
+CVE-2011-5211 - Subrion CMS 2.2.1 Multiple Remote XSS POST Injection Vulnerabilities
+CVE-2012-0677 - Apple iTunes 10.6.1.7 M3U Playlist File Walking Heap Buffer Overflow
+CVE-2012-1049 - ManageEngine ADManager Plus 5.2 Multiple XSS Vulnerabilities
+CVE-2012-1790 - webgrind 1.0 (file param) Local File Inclusion Vulnerability
+CVE-2012-2171 - IBM System Storage DS Storage Manager Profiler Multiple Vulnerabilities
+CVE-2012-2172 - IBM System Storage DS Storage Manager Profiler Multiple Vulnerabilities
+CVE-2012-2740 - phpList 2.10.17 Remote SQL Injection and XSS Vulnerability
+CVE-2012-2741 - phpList 2.10.17 Remote SQL Injection and XSS Vulnerability
+CVE-2012-2905 - Artiphp CMS 5.5.0 Database Backup Disclosure Exploit
+CVE-2012-2906 - Artiphp CMS v5.5.0 Multiple XSS POST Injection Vulnerabilities
+CVE-2012-2910 - phpThumb() v1.7.11 (dir & title) Cross-Site Scripting Vulnerability
+CVE-2012-2911 - backupDB() v1.2.7a (onlyDB) Remote XSS Vulnerability
+CVE-2012-3836 - Baby Gekko CMS v1.1.5c Multiple Stored Cross-Site Scripting Vulnerabilities
+CVE-2012-4754 - Mindjet MindManager 2012 v10.0.493 Multiple Remote Vulnerabilities
+CVE-2012-4755 - SciTools Understand 2.6 (wintab32.dll) DLL Loading Arbitrary Code Execution
+CVE-2012-4864 - Oreans WinLicense v2.1.8.0 XML File Handling Unspecified Memory Corruption
+CVE-2012-4865 - Oreans Themida v2.1.8.0 TMD File Handling Buffer Overflow Vulnerability
+CVE-2012-5324 - Tracker Software pdfSaver ActiveX 3.60 (pdfxctrl.dll) Stack Buffer Overflow (SEH)
+CVE-2012-5343 - Limny 3.0.1 (login.php) Remote URI Based Cross-Site Scripting Vulnerability
+CVE-2013-1469 - Piwigo 2.4.6 (install.php) Remote Arbitrary File Read/Delete Vulnerability
+CVE-2013-2226 - GLPI v0.83.8 Multiple Error-based SQL Injection Vulnerabilities
+CVE-2013-2227 - GLPI v0.83.7 (itemtype) Parameter Traversal Arbitrary File Access Exploit
+CVE-2012-4773 - Subrion CMS 2.2.1 CSRF Add Admin Exploit
+CVE-2013-5123 - phlyLabs phlyMail Lite 4.03.04 (go param) Open Redirect Vulnerability
+CVE-2013-5319 - Atlassian JIRA v6.0.3 Arbitrary HTML/Script Execution Vulnerability
+CVE-2013-3535 - CMSLogik 1.2.1 Multiple Persistent XSS Vulnerabilities
+CVE-2013-5640 - Gnew v2013.1 Multiple XSS And SQL Injection Vulnerabilities
+CVE-2014-3222 - Huawei Technologies eSpace Meeting Service 1.0.0.23 Local Privilege Escalation
+CVE-2014-4034 - ZeroCMS 1.0 (article_id) SQL Injection Vulnerability
+CVE-2014-4334 - Ubisoft Rayman Legends v1.2.103716 Remote Stack Buffer Overflow Vulnerability
+CVE-2014-4718 - Lunar CMS 3.3 CSRF And Stored XSS Vulnerability
+CVE-2014-5100 - Omeka 2.2 CSRF And Stored XSS Vulnerability
+CVE-2014-5349 - Baidu Spark Browser v26.5.9999.3511 Remote Stack Overflow Vulnerability (DoS)
+CVE-2014-5453 - Ubisoft Uplay 4.6 Insecure File Permissions Local Privilege Escalation
+CVE-2014-5455 - OpenVPN Private Tunnel Core Service Unquoted Service Path Elevation Of Privilege
+CVE-2014-8577 - Croogo 2.0.0 Multiple Stored XSS Vulnerabilities
+CVE-2014-8653 - CBN CH6640E/CG6640E Wireless Gateway Series Multiple Vulnerabilities
+CVE-2014-8654 - CBN CH6640E/CG6640E Wireless Gateway Series Multiple Vulnerabilities
+CVE-2014-8655 - CBN CH6640E/CG6640E Wireless Gateway Series Multiple Vulnerabilities
+CVE-2014-8656 - CBN CH6640E/CG6640E Wireless Gateway Series Multiple Vulnerabilities
+CVE-2014-8657 - CBN CH6640E/CG6640E Wireless Gateway Series Multiple Vulnerabilities
+CVE-2014-9101 - SkaDate Lite 2.0 Multiple XSRF And Persistent XSS Vulnerabilities
+CVE-2014-9101 - Oxwall 1.7.0 Multiple CSRF And HTML Injection Vulnerabilities
+CVE-2014-9343 - Snowfox CMS v1.0 (rd param) Open Redirect Vulnerability
+CVE-2014-9344 - Snowfox CMS v1.0 CSRF Add Admin Exploit
+CVE-2014-9350 - TP-Link TL-WR740N Wireless Router MitM httpd Denial Of Service
+CVE-2014-9415 - Huawei eSpace Meeting 1.1.11.103 'cenwpoll.dll' SEH Buffer Overflow (Unicode)
+CVE-2014-9416 - Huawei eSpace Meeting 1.1.11.103 DLL Hijacking
+CVE-2014-9417 - Huawei eSpace Meeting 1.1.11.103 Image File Format Handling Buffer Overflow
+CVE-2014-9418 - Huawei eSpace Meeting 1.1.11.103 'ContactsCtrl.dll' / 'eSpaceStatusCtrl.dll' ActiveX Heap Overflow
+CVE-2014-10008 - Stark CRM v1.0 Multiple Script Injection And Session Riding Vulnerabilities
+CVE-2014-10009 - Stark CRM v1.0 Multiple Script Injection And Session Riding Vulnerabilities
+CVE-2014-10011 - TRENDnet SecurView Wireless Network Camera TV-IP422WN (UltraCamX.ocx) Stack BoF
+CVE-2014-10034 - couponPHP CMS 1.0 Multiple Stored XSS and SQL Injection Vulnerabilities
+CVE-2014-10035 - couponPHP CMS 1.0 Multiple Stored XSS and SQL Injection Vulnerabilities
+CVE-2015-1058 - AdaptCMS 3.0.3 Multiple Persistent XSS Vulnerabilities
+CVE-2015-1059 - AdaptCMS 3.0.3 Remote Command Execution Exploit
+CVE-2015-1060 - AdaptCMS 3.0.3 HTTP Referer Header Field Open Redirect Vulnerability
+CVE-2015-1422 - Gecko CMS 2.3 Multiple Vulnerabilities
+CVE-2015-1575 - u5CMS 3.9.3 Multiple Stored And Reflected XSS Vulnerabilities
+CVE-2015-1576 - u5CMS 3.9.3 Multiple SQL Injection Vulnerabilities
+CVE-2015-1577 - u5CMS 3.9.3 (deletefile.php) Arbitrary File Deletion Vulnerability
+CVE-2015-1578 - u5CMS 3.9.3 Multiple Open Redirect Vulnerabilities
+CVE-2015-2080 - Inductive Automation Ignition 7.8.1 Remote Leakage Of Shared Buffers
+CVE-2015-2269 - Moodle 2.5.9/2.6.8/2.7.5/2.8.3 Block Title Handler Cross-Site Scripting
+CVE-2015-2678 - GeniXCMS v0.0.1 Persistent Script Insertion Vulnerability
+CVE-2015-2679 - GeniXCMS v0.0.1 Remote Unauthenticated SQL Injection Exploit
+CVE-2015-2680 - GeniXCMS v0.0.1 CSRF Add Admin Exploit
+CVE-2015-2789 - Foxit Reader 7.0.6.1126 Unquoted Service Path Elevation Of Privilege
+CVE-2015-5285 - Kallithea 0.2.9 (came_from) HTTP Response Splitting Vulnerability
+CVE-2015-5529 - ArticleFR 3.0.6 Multiple Script Injection Vulnerabilities
+CVE-2015-5530 - ArticleFR 3.0.6 CSRF Add Admin Exploit
+CVE-2015-6493 - Mango Automation 2.6.0 CSRF Add Admin Exploit
+CVE-2015-6494 - Mango Automation 2.6.0 Remote XSS POST Injection Vulnerability
+CVE-2015-7714 - Realtyna RPL 8.9.2 Joomla Extension Multiple SQL Injection Vulnerabilities
+CVE-2015-7715 - Realtyna RPL 8.9.2 Joomla Extension Persistent XSS And CSRF Vulnerabilities
+CVE-2015-7900 - Mango Automation 2.6.0 Unprotected Debug Log View Vulnerability
+CVE-2015-7901 - Mango Automation 2.6.0 CSRF Arbitrary Command Execution Exploit
+CVE-2015-7902 - Mango Automation 2.6.0 User Enumeration Weakness
+CVE-2015-7903 - Mango Automation 2.6.0 CSRF Arbitrary SQL Query Execution
+CVE-2015-7904 - Mango Automation 2.6.0 CSRF File Upload And Arbitrary JSP Code Execution
+CVE-2015-8979 - DCMTK storescp DICOM storage (C-STORE) SCP Remote Stack Buffer Overflow
+CVE-2016-1606 - Micro Focus Rumba+ v9.4 Multiple Stack Buffer Overflow Vulnerabilities
+CVE-2016-3968 - Sophos Cyberoam NG Series Multiple Cross-Site Scripting Vulnerabilities
+CVE-2016-5228 - Micro Focus Rumba+ v9.4 Multiple Stack Buffer Overflow Vulnerabilities
+CVE-2017-9640 - Automated Logic WebCTRL 6.1 Path Traversal Arbitrary File Write
+CVE-2017-9644 - Automated Logic WebCTRL 6.5 Insecure File Permissions Privilege Escalation
+CVE-2017-9650 - Automated Logic WebCTRL 6.5 Unrestricted File Upload Remote Code Execution
+CVE-2017-9964 - Schneider Electric Pelco VideoXpert Missing Encryption Of Sensitive Information
+CVE-2017-9965 - Schneider Electric Pelco VideoXpert Core Admin Portal Directory Traversal
+CVE-2017-9966 - Schneider Electric Pelco VideoXpert Privilege Escalations
+CVE-2018-7236 - Schneider Electric Pelco Sarix/Spectra Cameras CSRF Enable SSH Root Access
+CVE-2018-7783 - Schneider Electric EcoStruxure Machine Experts SoMachine Basic 1.6.0 XXE OOB Remote Arbitrary Data Retrieval
+CVE-2018-7827 - Schneider Electric Pelco Sarix/Spectra Cameras Multiple XSS Vulnerabilities
+CVE-2018-7829 - Schneider Electric Pelco Sarix/Spectra Cameras Root Remote Code Execution
+CVE-2018-9161 - Prisma Industriale Checkweigher PrismaWEB 1.21 Authentication Bypass
+CVE-2018-10600 - Schweitzer Engineering Laboratories AcSELerator Architect 2.2.24.0 XML External Entity (XXE) OOB Processing
+CVE-2018-10604 - Schweitzer Engineering Laboratories AcSELerator Architect 2.2.24.0 Insecure File Permissions Privilege Escalation Vulnerability
+CVE-2018-10608 - Schweitzer Engineering Laboratories AcSELerator Architect 2.2.24.0 CPU Exhaustion Denial of Service (DoS)
+CVE-2018-10619 - Rockwell Automation RSLinx Classic and FactoryTalk Linx Gateway Privilege Escalation
+CVE-2018-17912 - SAUTER CASE Suite XML External Entity Injection Remote Arbitrary Data Retrieval
+CVE-2018-18428 - TP-Link TL-SC3130 1.6.18 Unauthenticated RTSP Stream Disclosure Vulnerability
+CVE-2018-19009 - Pilz PNOZmulti Configurator Cleartext Storage of Sensitive Information
+CVE-2019-1262 - Microsoft SharePoint 2013 SP1 Stored XSS Vulnerability
+CVE-2019-7266 - Nortek Linear eMerge 50P/5000P 4.6.07 Authentication Bypass Remote Code Execution
+CVE-2019-7267 - Nortek Linear eMerge 50P/5000P 4.6.07 Directory Traversal
+CVE-2019-7268 - Nortek Linear eMerge 50P/5000P 4.6.07 Unrestricted File Upload
+CVE-2019-7269 - Nortek Linear eMerge 50P/5000P 4.6.07 Command Injection
+CVE-2019-7270 - Nortek Linear eMerge 50P/5000P 4.6.07 CSRF
+CVE-2019-7271 - Nortek Linear eMerge 50P/5000P 4.6.07 Default Credentials
+CVE-2019-7252 - Nortek Linear eMerge E3-Series 1.00-06 Default Credentials
+CVE-2019-7253 - Nortek Linear eMerge E3-Series 1.00-06 File Path Traversal
+CVE-2019-7254 - Nortek Linear eMerge E3-Series 1.00-06 Directory Traversal
+CVE-2019-7255 - Nortek Linear eMerge E3-Series 1.00-06 Cross-Site Scripting (XSS)
+CVE-2019-7256 - Nortek Linear eMerge E3-Series 1.00-06 Command Injection
+CVE-2019-7257 - Nortek Linear eMerge E3-Series 1.00-06 Unrestricted File Upload
+CVE-2019-7258 - Nortek Linear eMerge E3-Series 1.00-06 Privilege Escalation
+CVE-2019-7259 - Nortek Linear eMerge E3-Series 1.00-06 Authorization Bypass
+CVE-2019-7260 - Nortek Linear eMerge E3-Series 1.00-06 Clear-text Storage of Passwords
+CVE-2019-7261 - Nortek Linear eMerge E3-Series 1.00-06 Hard-coded Credentials
+CVE-2019-7262 - Nortek Linear eMerge E3-Series 1.00-06 CSRF
+CVE-2019-7263 - Nortek Linear eMerge E3-Series 1.00-06 Version Control Failure
+CVE-2019-7264 - Nortek Linear eMerge E3-Series 1.00-06 Stack-based Buffer Overflow ARM Platform
+CVE-2019-7265 - Nortek Linear eMerge E3-Series 1.00-06 Root Access Over SSH
+CVE-2019-7272 - Optergy Proton / Enterprise 2.3.0a Username Disclosure
+CVE-2019-7273 - Optergy Proton / Enterprise 2.3.0a Cross-Site Request Forgery (CSRF)
+CVE-2019-7274 - Optergy Proton / Enterprise 2.3.0a Unrestricted File Upload
+CVE-2019-7275 - Optergy Proton / Enterprise 2.3.0a URL Redirection
+CVE-2019-7276 - Optergy Proton / Enterprise 2.3.0a Backdoor Unauthenticated Remote Code Execution
+CVE-2019-7278 - Optergy Proton / Enterprise 2.3.0a Information Disclosure
+CVE-2019-7279 - Optergy Proton / Enterprise 2.3.0a Hard-coded Credentials
+CVE-2019-7280 - Prima Systems FlexAir 2.3.38 Insufficient Session-ID Length
+CVE-2019-7281 - Prima Systems FlexAir 2.3.38 CSRF
+CVE-2019-7590 - exacqVision 9.8 Unquoted Service Path Privilege Escalation
+CVE-2019-7669 - Prima Systems FlexAir 2.3.38 Unrestricted File Upload
+CVE-2019-7670 - Prima Systems FlexAir 2.3.38 OS Command Injection
+CVE-2019-7671 - Prima Systems FlexAir 2.3.38 XSS
+CVE-2019-7672 - Prima Systems FlexAir 2.3.38 Hard-coded Credentials
+CVE-2019-7666 - Prima Systems FlexAir 2.3.38 Authentication With MD5 Hash
+CVE-2019-7667 - Prima Systems FlexAir 2.3.38 Predictable Database Name Download
+CVE-2019-7668 - Prima Systems FlexAir 2.3.38 Default Credentials
+CVE-2019-9189 - Prima Systems FlexAir 2.3.38 Python Script Upload Remote Code Execution
+CVE-2019-10846 - Computrols CBAS-Web 19.0.0 Cross-Site Scripting
+CVE-2019-10847 - Computrols CBAS-Web 19.0.0 CSRF
+CVE-2019-10848 - Computrols CBAS-Web 19.0.0 Username Enumeration
+CVE-2019-10849 - Computrols CBAS-Web 19.0.0 SVN Source Code Disclosure
+CVE-2019-10850 - Computrols CBAS-Web 19.0.0 Default Credentials
+CVE-2019-10851 - Computrols CBAS-Web 19.0.0 Hardcoded Encryption Keys
+CVE-2019-10852 - Computrols CBAS-Web 19.0.0 SQL Injection
+CVE-2019-10853 - Computrols CBAS-Web 19.0.0 Authentication Bypass
+CVE-2019-10854 - Computrols CBAS-Web 19.0.0 Command Injection
+CVE-2019-10855 - Computrols CBAS-Web 19.0.0 Mishandling Of Password Hashes
+CVE-2019-13927 - Siemens Desigo PX V6.00 Web Remote Denial of Service Exploit
+CVE-2019-15827 - WordPress Plugin OneSignal 1.17.5 Persistent Cross-Site Scripting
+CVE-2019-18245 - Reliable Controls LicenseManager 3.4 Privilege Escalation
+CVE-2019-18249 - Reliable Controls MACH-ProWeb 2.10 Reflected XSS Vulnerability
+CVE-2020-6776 - Bosch PRAESIDEO and PRAESENSA Cross-Site Request Forgery (CSRF)
+CVE-2020-6777 - Bosch PRAESIDEO and PRAESENSA Stored Cross-Site Scripting (XSS)
+CVE-2020-6972 - Honeywell Fire Alarm Web Server (NWS-3) Authentication Bypass By Capture-Replay
+CVE-2020-6974 - Honeywell Fire Alarm Web Server (NWS-3) Predictable Database Backup File Download
+CVE-2020-7000 - VISAM Automation Base (VBASE) HMI / SCADA 11.5.0.2 Cryptographic Key Disclosure
+CVE-2020-7004 - VISAM Automation Base (VBASE) HMI / SCADA 11.5.0.2 Insecure File Permissions Privilege Escalation
+CVE-2020-7008 - VISAM Automation Base (VBASE) HMI / SCADA 11.5.0.2 Information Disclosure via Directory Traversal
+CVE-2020-7356 - Cayin Digital Signage System xPost 2.5 Pre-Auth SQLi Remote Code Execution
+CVE-2020-7357 - Cayin Content Management Server 11.0 Root Remote Command Injection
+CVE-2020-7382 - Rapid7 Nexpose Installer 6.6.39 Local Privilege Escalation
+CVE-2020-10599 - VISAM Automation Base (VBASE) HMI / SCADA 11.5.0.2 Buffer Overflow
+CVE-2020-10601 - VISAM Automation Base (VBASE) HMI / SCADA 11.5.0.2 Password Protection Security Bypass
+CVE-2020-12132 - Fifthplay S.A.M.I - Service And Management Interface Unauthenticated Stored XSS
+CVE-2020-12133 - Furukawa Electric ConsciusMAP 2.8.1 Java Deserialization Remote Code Execution
+CVE-2020-12134 - Nanometrics Centaur / TitanSMA Unauthenticated Remote Memory Leak Exploit
+CVE-2020-15688 - EmbedThis GoAhead Web Server 5.1.1 Digest Authentication Capture Replay Nonce Reuse
+CVE-2020-21987 - HomeAutomation v3.3.2 Stored and Reflected XSS
+CVE-2020-21988 - AVE DOMINAplus <=1.10.x CSRF/XSS Vulnerabilities
+CVE-2020-21989 - HomeAutomation v3.3.2 CSRF Add Admin Exploit
+CVE-2020-21990 - MyDomoAtHome (MDAH) REST API Domoticz ISS Gateway 0.2.40 Information Disclosure
+CVE-2020-21991 - AVE DOMINAplus <=1.10.x Authentication Bypass Exploit
+CVE-2020-21992 - Inim Electronics SmartLiving SmartLAN/G/SI &lt;=6.x Root Remote Command Execution
+CVE-2020-21993 - WEMS Enterprise Manager 2.58 (email) Reflected XSS
+CVE-2020-21994 - AVE DOMINAplus <=1.10.x Credentials Disclosure Exploit
+CVE-2020-21995 - Inim Electronics Smartliving SmartLAN/G/SI &lt;=6.x Hard-coded Credentials
+CVE-2020-21996 - AVE DOMINAplus <=1.10.x Unauthenticated Remote Reboot
+CVE-2020-21997 - Smartwares HOME easy v1.0.9 Database Backup Information Disclosure Exploit
+CVE-2020-21998 - HomeAutomation v3.3.2 Open Redirect
+CVE-2020-21999 - FaceSentry Access Control System 6.4.8 Remote Root Exploit
+CVE-2020-22000 - HomeAutomation v3.3.2 CSRF Remote Command Execution (PHP Reverse Shell) PoC
+CVE-2020-22001 - HomeAutomation v3.3.2 Authentication Bypass Exploit
+CVE-2020-22002 - Inim Electronics Smartliving SmartLAN/G/SI &lt;=6.x Unauthenticated SSRF
+CVE-2020-22003 - WEMS BEMS 21.3.1 Undocumented Backdoor Account
+CVE-2020-22004 - B-swiss 3 Digital Signage System 3.6.5 Backdoor Remote Code Execution
+CVE-2020-22005 - B-swiss 3 Digital Signage System 3.6.5 CSRF Add Maintenance Admin
+CVE-2020-22006 - B-swiss 3 Digital Signage System 3.6.5 Database Disclosure
+CVE-2021-26549 - SmartFoxServer 2X 2.17.0 God Mode Console WebSocket XSS
+CVE-2021-26550 - SmartFoxServer 2X 2.17.0 Credentials Disclosure
+CVE-2021-26551 - SmartFoxServer 2X 2.17.0 God Mode Console Remote Code Execution
+CVE-2021-27855 - FatPipe Networks WARP/IPVPN/MPVPN 10.2.2 Remote Privilege Escalation
+CVE-2021-27856 - FatPipe Networks WARP/IPVPN/MPVPN 10.2.2 Hidden Backdoor Account (Write Access)
+CVE-2021-27857 - FatPipe Networks WARP/IPVPN/MPVPN 10.2.2 Unauthenticated Config Download
+CVE-2021-27858 - FatPipe Networks WARP 10.2.2 Authorization Bypass
+CVE-2021-27859 - FatPipe Networks WARP/IPVPN/MPVPN 10.2.2 CSRF Add Admin Exploit
+CVE-2021-27860 - FatPipe Networks WARP/IPVPN/MPVPN 10.2.2 Unauthenticated File Upload / Remote Code Execution
+CVE-2021-28255 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Unauthenticated Log Disclosure
+CVE-2021-28256 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Unauthenticated Factory Reset
+CVE-2021-28257 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Authentication Bypass
+CVE-2021-28258 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Unauthenticated Config Download
+CVE-2021-28259 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Hard-coded Credentials Shell Access
+CVE-2021-28260 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Improper Access Control (IDOR)
+CVE-2021-28261 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Remote Code Execution (Backdoors)
+CVE-2021-28262 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Authenticated Command Injection
+CVE-2021-28263 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Weak Default WiFi Password Algorithm
+CVE-2021-28264 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Unauthenticated Device Reboot (DoS)
+CVE-2021-28265 - SOYAL Biometric Access Control System 5.0 Master Code Disclosure
+CVE-2021-28266 - SOYAL Biometric Access Control System 5.0 Weak Default Credentials
+CVE-2021-28267 - KZTech/JatonTec/Neotel JT3500V 4G LTE CPE 2.0.1 Privilege Escalation
+CVE-2021-28268 - SOYAL Biometric Access Control System 5.0 CSRF Change Admin Password
+CVE-2021-28269 - SOYAL 701Client 9.0.1 Insecure Permissions
+CVE-2021-28271 - SOYAL 701Server 9.0.1 Insecure Permissions
+CVE-2021-31583 - Sipwise C5 NGCP CSC Multiple Stored/Reflected XSS Vulnerabilities
+CVE-2021-31584 - Sipwise C5 NGCP CSC CSRF Click2Dial Exploit
+CVE-2021-32238 - Epic Games Rocket League 1.95 (AK::MemoryMgr::GetPoolName) Stack Buffer Overrun
+CVE-2021-37291 - KevinLAB BEMS 1.0 Unauthenticated SQL Injection / Authentication Bypass
+CVE-2021-37292 - KevinLAB BEMS 1.0 Undocumented Backdoor Account
+CVE-2021-37293 - KevinLAB BEMS 1.0 Authenticated File Path Traversal Information Disclosure
+CVE-2021-41290 - ECOA Building Automation System Path Traversal Arbitrary File Upload
+CVE-2021-41291 - ECOA Building Automation System Directory Traversal Content Disclosure
+CVE-2021-41292 - ECOA Building Automation System Cookie Poisoning Authentication Bypass
+CVE-2021-41293 - ECOA Building Automation System Local File Disclosure Vulnerability
+CVE-2021-41294 - ECOA Building Automation System Arbitrary File Deletion
+CVE-2021-41295 - ECOA Building Automation System Cross-Site Request Forgery
+CVE-2021-41296 - ECOA Building Automation System Weak Default Credentials
+CVE-2021-41297 - ECOA Building Automation System Remote Privilege Escalation
+CVE-2021-41298 - ECOA Building Automation System Authorization Bypass / IDOR
+CVE-2021-41299 - ECOA Building Automation System Hard-coded Credentials SSH Access
+CVE-2021-41300 - ECOA Building Automation System Hidden Backdoor Accounts and backdoor() Function
+CVE-2021-41301 - ECOA Building Automation System Configuration Download Information Disclosure
+CVE-2021-41302 - ECOA Building Automation System Missing Encryption Of Sensitive Information
+CVE-2021-43442 - i3 International Annexxus Cameras Ax-n 5.2.0 Application Logic Flaw
+CVE-2022-0365 - Ricon Industrial Cellular Router S9922XL Remote Command Execution
+CVE-2022-25359 - ICL ScadaFlex II SCADA Controllers SC-1/SC-2 1.03.07 Remote File CRUD
+CVE-2022-29729 - Verizon 4G LTE Network Extender Weak Credentials Algorithm
+CVE-2022-29730 - USR IOT 4G LTE Industrial Cellular VPN Router 1.0.36 Remote Root Backdoor
+CVE-2022-29731 - ICT Protege GX/WX 2.08 Client-Side SHA1 Password Hash Disclosure
+CVE-2022-29732 - Delta Controls enteliTOUCH 3.40.3935 Cross-Site Scripting (XSS)
+CVE-2022-29733 - Delta Controls enteliTOUCH 3.40.3935 Cookie User Password Disclosure
+CVE-2022-29734 - ICT Protege GX/WX 2.08 Authenticated Stored XSS Vulnerability
+CVE-2022-29735 - Delta Controls enteliTOUCH 3.40.3935 Cross-Site Request Forgery (CSRF)
+CVE-2022-30425 - Tenda HG6 v3.3.0 Remote Command Injection Vulnerability
+CVE-2022-32513 - Schneider Electric C-Bus Automation Controller (5500SHAC) 1.10 Remote Root Exploit
+CVE-2022-32514 - Schneider Electric C-Bus Automation Controller (5500SHAC) 1.10 Remote Root Exploit
+CVE-2022-34753 - Schneider Electric SpaceLogic C-Bus Home Controller (5200WHC2) Remote Root Exploit
+CVE-2022-37060 - FLIR Systems FLIR AX8 Thermal Camera 1.32.16 Arbitrary File Disclosure
+CVE-2022-37061 - FLIR Systems FLIR AX8 Thermal Camera 1.32.16 Remote Root Exploit
+CVE-2022-37122 - Carel pCOWeb HVAC BACnet Gateway 2.1.0 Unauthenticated Directory Traversal
+CVE-2022-37314 - Ivanti Security Controls 2022.2 (9.5.9293.0) XML Insecure Deserialization Memory Corruption
