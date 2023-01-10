@@ -280,6 +280,7 @@ CVE-2021-41301 - ECOA Building Automation System Configuration Download Informat
 CVE-2021-41302 - ECOA Building Automation System Missing Encryption Of Sensitive Information
 CVE-2021-43442 - i3 International Annexxus Cameras Ax-n 5.2.0 Application Logic Flaw
 CVE-2022-0365 - Ricon Industrial Cellular Router S9922XL Remote Command Execution
+CVE-2022-4621 - Panasonic Sanyo CCTV Network Camera 2.03-0x CSRF Disable Authentication / Change Password
 CVE-2022-25359 - ICL ScadaFlex II SCADA Controllers SC-1/SC-2 1.03.07 Remote File CRUD
 CVE-2022-29729 - Verizon 4G LTE Network Extender Weak Credentials Algorithm
 CVE-2022-29730 - USR IOT 4G LTE Industrial Cellular VPN Router 1.0.36 Remote Root Backdoor
