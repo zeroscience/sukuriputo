@@ -297,3 +297,4 @@ CVE-2022-37060 - FLIR Systems FLIR AX8 Thermal Camera 1.32.16 Arbitrary File Dis
 CVE-2022-37061 - FLIR Systems FLIR AX8 Thermal Camera 1.32.16 Remote Root Exploit
 CVE-2022-37122 - Carel pCOWeb HVAC BACnet Gateway 2.1.0 Unauthenticated Directory Traversal
 CVE-2022-37314 - Ivanti Security Controls 2022.2 (9.5.9293.0) XML Insecure Deserialization Memory Corruption
+CVE-2023-22971 - Hughes Satellite Router Remote File Inclusion Cross-Frame Scripting
