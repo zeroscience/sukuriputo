@@ -299,3 +299,13 @@ CVE-2022-37122 - Carel pCOWeb HVAC BACnet Gateway 2.1.0 Unauthenticated Director
 CVE-2022-37314 - Ivanti Security Controls 2022.2 (9.5.9293.0) XML Insecure Deserialization Memory Corruption
 CVE-2022-47083 - Spitfire CMS 1.0.475 (cms_backup_values) PHP Object Injection
 CVE-2023-22971 - Hughes Satellite Router Remote File Inclusion Cross-Frame Scripting
+CVE-2023-27394 - Osprey Pump Controller 1.0.1 (eventFileSelected) Command Injection
+CVE-2023-27886 - Osprey Pump Controller 1.0.1 (pseudonym) Semi-blind Command Injection
+CVE-2023-27886 - Osprey Pump Controller 1.0.1 (userName) Blind Command Injection
+CVE-2023-28375 - Osprey Pump Controller 1.0.1 Unauthenticated File Disclosure
+CVE-2023-28395 - Osprey Pump Controller 1.0.1 Predictable Session Token / Session Hijack
+CVE-2023-28398 - Osprey Pump Controller 1.0.1 Authentication Bypass Credentials Modification
+CVE-2023-28648 - Osprey Pump Controller 1.0.1 Unauthenticated Reflected XSS
+CVE-2023-28654 - Osprey Pump Controller 1.0.1 Administrator Backdoor Access
+CVE-2023-28712 - Osprey Pump Controller 1.0.1 Unauthenticated Remote Code Execution Exploit
+CVE-2023-28718 - Osprey Pump Controller 1.0.1 Cross-Site Request Forgery
