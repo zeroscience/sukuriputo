@@ -133,6 +133,14 @@ CVE-2017-9650 - Automated Logic WebCTRL 6.5 Unrestricted File Upload Remote Code
 CVE-2017-9964 - Schneider Electric Pelco VideoXpert Missing Encryption Of Sensitive Information
 CVE-2017-9965 - Schneider Electric Pelco VideoXpert Core Admin Portal Directory Traversal
 CVE-2017-9966 - Schneider Electric Pelco VideoXpert Privilege Escalations
+CVE-2017-20113 - TrueConf Server v4.3.7 Multiple Remote Web Vulnerabilities
+CVE-2017-20114 - TrueConf Server v4.3.7 Multiple Remote Web Vulnerabilities
+CVE-2017-20115 - TrueConf Server v4.3.7 Multiple Remote Web Vulnerabilities
+CVE-2017-20116 - TrueConf Server v4.3.7 Multiple Remote Web Vulnerabilities
+CVE-2017-20117 - TrueConf Server v4.3.7 Multiple Remote Web Vulnerabilities
+CVE-2017-20118 - TrueConf Server v4.3.7 Multiple Remote Web Vulnerabilities
+CVE-2017-20119 - TrueConf Server v4.3.7 Multiple Remote Web Vulnerabilities
+CVE-2017-20120 - TrueConf Server v4.3.7 Multiple Remote Web Vulnerabilities
 CVE-2018-7236 - Schneider Electric Pelco Sarix/Spectra Cameras CSRF Enable SSH Root Access
 CVE-2018-7783 - Schneider Electric EcoStruxure Machine Experts SoMachine Basic 1.6.0 XXE OOB Remote Arbitrary Data Retrieval
 CVE-2018-7827 - Schneider Electric Pelco Sarix/Spectra Cameras Multiple XSS Vulnerabilities
