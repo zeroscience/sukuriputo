@@ -318,3 +318,6 @@ CVE-2023-28648 - Osprey Pump Controller 1.0.1 Unauthenticated Reflected XSS
 CVE-2023-28654 - Osprey Pump Controller 1.0.1 Administrator Backdoor Access
 CVE-2023-28712 - Osprey Pump Controller 1.0.1 Unauthenticated Remote Code Execution Exploit
 CVE-2023-28718 - Osprey Pump Controller 1.0.1 Cross-Site Request Forgery
+CVE-2023-33684 - Screen SFT DAB 600/C Authentication Bypass Account Creation Exploit
+CVE-2023-36252 - Anevia Flamingo XS 3.6.5 Authenticated Root Remote Code Execution
+CVE-2023-36252 - Anevia Flamingo XL 3.6.20 Authenticated Root Remote Code Execution
