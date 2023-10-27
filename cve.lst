@@ -306,6 +306,8 @@ CVE-2022-37061 - FLIR Systems FLIR AX8 Thermal Camera 1.32.16 Remote Root Exploi
 CVE-2022-37122 - Carel pCOWeb HVAC BACnet Gateway 2.1.0 Unauthenticated Directory Traversal
 CVE-2022-37314 - Ivanti Security Controls 2022.2 (9.5.9293.0) XML Insecure Deserialization Memory Corruption
 CVE-2022-47083 - Spitfire CMS 1.0.475 (cms_backup_values) PHP Object Injection
+CVE-2023-0897 - Sielco PolyEco Digital FM Transmitter 2.0.6 'polyeco' Session Hijacking
+CVE-2023-5754 - Sielco PolyEco Digital FM Transmitter 2.0.6 Default Credentials
 CVE-2023-22971 - Hughes Satellite Router Remote File Inclusion Cross-Frame Scripting
 CVE-2023-27394 - Osprey Pump Controller 1.0.1 (eventFileSelected) Command Injection
 CVE-2023-27712 - Osprey Pump Controller 1.0.1 Authentication Bypass Credentials Modification
@@ -321,3 +323,16 @@ CVE-2023-28718 - Osprey Pump Controller 1.0.1 Cross-Site Request Forgery
 CVE-2023-33684 - Screen SFT DAB 600/C Authentication Bypass Account Creation Exploit
 CVE-2023-36252 - Anevia Flamingo XS 3.6.5 Authenticated Root Remote Code Execution
 CVE-2023-36252 - Anevia Flamingo XL 3.6.20 Authenticated Root Remote Code Execution
+CVE-2023-41966 - Sielco Analog FM Transmitter 2.12 Remote Privilege Escalation
+CVE-2023-41966 - Sielco Radio Link 2.06 Remote Privilege Escalation
+CVE-2023-42769 - Sielco Analog FM Transmitter 2.12 'id' Cookie Brute Force Session Hijacking
+CVE-2023-42769 - Sielco Radio Link 2.06 'id' Cookie Brute Force Session Hijacking
+CVE-2023-45228 - Sielco Analog FM Transmitter 2.12 Improper Access Control Change Admin Password
+CVE-2023-45228 - Sielco Radio Link 2.06 Improper Access Control Change Admin Password
+CVE-2023-45317 - Sielco Analog FM Transmitter 2.12 Cross-Site Request Forgery
+CVE-2023-45317 - Sielco Radio Link 2.06 Cross-Site Request Forgery (Add Admin)
+CVE-2023-46661 Sielco PolyEco Digital FM Transmitter 2.0.6 Account Takeover / Lockout / EoP
+CVE-2023-46662 Sielco PolyEco Digital FM Transmitter 2.0.6 Unauthenticated Information Disclosure
+CVE-2023-46663 Sielco PolyEco Digital FM Transmitter 2.0.6 Radio Data System POST Manipulation
+CVE-2023-46664 Sielco PolyEco Digital FM Transmitter 2.0.6 Authorization Bypass Factory Reset
+CVE-2023-46665 Sielco PolyEco Digital FM Transmitter 2.0.6 Authentication Bypass Exploit
