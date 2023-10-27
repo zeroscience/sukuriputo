@@ -331,8 +331,8 @@ CVE-2023-45228 - Sielco Analog FM Transmitter 2.12 Improper Access Control Chang
 CVE-2023-45228 - Sielco Radio Link 2.06 Improper Access Control Change Admin Password
 CVE-2023-45317 - Sielco Analog FM Transmitter 2.12 Cross-Site Request Forgery
 CVE-2023-45317 - Sielco Radio Link 2.06 Cross-Site Request Forgery (Add Admin)
-CVE-2023-46661 Sielco PolyEco Digital FM Transmitter 2.0.6 Account Takeover / Lockout / EoP
-CVE-2023-46662 Sielco PolyEco Digital FM Transmitter 2.0.6 Unauthenticated Information Disclosure
-CVE-2023-46663 Sielco PolyEco Digital FM Transmitter 2.0.6 Radio Data System POST Manipulation
-CVE-2023-46664 Sielco PolyEco Digital FM Transmitter 2.0.6 Authorization Bypass Factory Reset
-CVE-2023-46665 Sielco PolyEco Digital FM Transmitter 2.0.6 Authentication Bypass Exploit
+CVE-2023-46661-  Sielco PolyEco Digital FM Transmitter 2.0.6 Account Takeover / Lockout / EoP
+CVE-2023-46662 - Sielco PolyEco Digital FM Transmitter 2.0.6 Unauthenticated Information Disclosure
+CVE-2023-46663 - Sielco PolyEco Digital FM Transmitter 2.0.6 Radio Data System POST Manipulation
+CVE-2023-46664 - Sielco PolyEco Digital FM Transmitter 2.0.6 Authorization Bypass Factory Reset
+CVE-2023-46665 - Sielco PolyEco Digital FM Transmitter 2.0.6 Authentication Bypass Exploit
