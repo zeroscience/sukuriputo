@@ -308,6 +308,9 @@ CVE-2022-37314 - Ivanti Security Controls 2022.2 (9.5.9293.0) XML Insecure Deser
 CVE-2022-47083 - Spitfire CMS 1.0.475 (cms_backup_values) PHP Object Injection
 CVE-2023-0897 - Sielco PolyEco Digital FM Transmitter 2.0.6 'polyeco' Session Hijacking
 CVE-2023-5754 - Sielco PolyEco Digital FM Transmitter 2.0.6 Default Credentials
+CVE-2023-6928 - EuroTel ETL3100 Transmitter Default Credentials
+CVE-2023-6929 - EuroTel ETL3100 Transmitter Authorization Bypass (IDOR)
+CVE-2023-6930 - EuroTel ETL3100 Transmitter Unauthenticated Config/Log Download Vulnerability
 CVE-2023-22971 - Hughes Satellite Router Remote File Inclusion Cross-Frame Scripting
 CVE-2023-27394 - Osprey Pump Controller 1.0.1 (eventFileSelected) Command Injection
 CVE-2023-27712 - Osprey Pump Controller 1.0.1 Authentication Bypass Credentials Modification
@@ -336,3 +339,8 @@ CVE-2023-46662 - Sielco PolyEco Digital FM Transmitter 2.0.6 Unauthenticated Inf
 CVE-2023-46663 - Sielco PolyEco Digital FM Transmitter 2.0.6 Radio Data System POST Manipulation
 CVE-2023-46664 - Sielco PolyEco Digital FM Transmitter 2.0.6 Authorization Bypass Factory Reset
 CVE-2023-46665 - Sielco PolyEco Digital FM Transmitter 2.0.6 Authentication Bypass Exploit
+CVE-2023-49521 - OctoberCMS v3.4.0 (Blog) Stored Cross-Site Scripting Vulnerabilities
+CVE-2023-49522 - OctoberCMS v3.4.0 (About) Stored Cross-Site Scripting Vulnerability
+CVE-2023-49523 - OctoberCMS v3.4.0 (Author) Stored Cross-Site Scripting Vulnerability
+CVE-2023-49524 - OctoberCMS v3.4.0 (Wiki_article) Stored Cross-Site Scripting Vulnerability
+CVE-2023-49525 - OctoberCMS v3.4.0 (Category) Stored Cross-Site Scripting Vulnerability
