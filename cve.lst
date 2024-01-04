@@ -344,3 +344,4 @@ CVE-2023-49522 - OctoberCMS v3.4.0 (About) Stored Cross-Site Scripting Vulnerabi
 CVE-2023-49523 - OctoberCMS v3.4.0 (Author) Stored Cross-Site Scripting Vulnerability
 CVE-2023-49524 - OctoberCMS v3.4.0 (Wiki_article) Stored Cross-Site Scripting Vulnerability
 CVE-2023-49525 - OctoberCMS v3.4.0 (Category) Stored Cross-Site Scripting Vulnerability
+CVE-2023-52277 - RoyalTSX 6.0.1 RTSZ File Handling Heap Memory Corruption PoC
