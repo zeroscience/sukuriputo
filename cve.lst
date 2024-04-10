@@ -349,3 +349,4 @@ CVE-2024-27699 - TELSAT marKoni FM Transmitter 1.9.5 Root Command Injection PoC 
 CVE-2024-27700 - TELSAT marKoni FM Transmitter 1.9.5 Backdoor Account
 CVE-2024-27701 - TELSAT marKoni FM Transmitter 1.9.5 Client-Side Access Control Bypass
 CVE-2024-27702 - TELSAT marKoni FM Transmitter 1.9.5 Insecure Access Control Change Password
+CVE-2024-31830 - Positron Broadcast Signal Processor TRA7005 v1.20 _Passwd Exploit
