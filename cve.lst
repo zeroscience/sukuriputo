@@ -345,6 +345,14 @@ CVE-2023-49523 - OctoberCMS v3.4.0 (Author) Stored Cross-Site Scripting Vulnerab
 CVE-2023-49524 - OctoberCMS v3.4.0 (Wiki_article) Stored Cross-Site Scripting Vulnerability
 CVE-2023-49525 - OctoberCMS v3.4.0 (Category) Stored Cross-Site Scripting Vulnerability
 CVE-2023-52277 - RoyalTSX 6.0.1 RTSZ File Handling Heap Memory Corruption PoC
+CVE-2024-1491 - Electrolink FM/DAB/TV Transmitter Pre-Auth MPFS Image Remote Code Execution
+CVE-2024-3741 - Electrolink FM/DAB/TV Transmitter (Login Cookie) Authentication Bypass
+CVE-2024-3742 - Electrolink FM/DAB/TV Transmitter (login.htm/mail.htm) Credentials Disclosure
+CVE-2024-3742 - Electrolink FM/DAB/TV Transmitter (controlloLogin.js) Credentials Disclosure
+CVE-2024-21846 - Electrolink FM/DAB/TV Transmitter Unauthenticated Remote DoS
+CVE-2024-21872 - Electrolink FM/DAB/TV Transmitter SuperAdmin Hidden Functionality
+CVE-2024-22179 - Electrolink FM/DAB/TV Transmitter Remote Authentication Removal
+CVE-2024-22186 - Electrolink FM/DAB/TV Transmitter Vertical Privilege Escalation
 CVE-2024-27699 - TELSAT marKoni FM Transmitter 1.9.5 Root Command Injection PoC Exploit
 CVE-2024-27700 - TELSAT marKoni FM Transmitter 1.9.5 Backdoor Account
 CVE-2024-27701 - TELSAT marKoni FM Transmitter 1.9.5 Client-Side Access Control Bypass
