@@ -350,6 +350,8 @@ CVE-2024-3741 - Electrolink FM/DAB/TV Transmitter (Login Cookie) Authentication 
 CVE-2024-3742 - Electrolink FM/DAB/TV Transmitter (login.htm/mail.htm) Credentials Disclosure
 CVE-2024-3742 - Electrolink FM/DAB/TV Transmitter (controlloLogin.js) Credentials Disclosure
 CVE-2024-5947 - Deep Sea Electronics DSE855 Remote Authentication Bypass
+CVE-2024-6209 - ABB Cylon Aspect 3.08.01 (databaseFileDelete.php) Unauthenticated Arbitrary File Deletion
+CVE-2024-6298 - ABB Cylon Aspect 3.08.01 (bigUpload.php) Authenticated Remote Code Execution
 CVE-2024-7007 - Positron Broadcast Signal Processor TRA7005 v1.20 _Passwd Exploit
 CVE-2024-21846 - Electrolink FM/DAB/TV Transmitter Unauthenticated Remote DoS
 CVE-2024-21872 - Electrolink FM/DAB/TV Transmitter SuperAdmin Hidden Functionality
