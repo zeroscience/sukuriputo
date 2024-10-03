@@ -367,3 +367,5 @@ CVE-2024-39373 - TELSAT marKoni FM Transmitter 1.9.5 Root Command Injection PoC 
 CVE-2024-39374 - TELSAT marKoni FM Transmitter 1.9.5 Backdoor Account
 CVE-2024-39375 - TELSAT marKoni FM Transmitter 1.9.5 Client-Side Access Control Bypass
 CVE-2024-39376 - TELSAT marKoni FM Transmitter 1.9.5 Insecure Access Control Change Password
+CVE-2024-41987 - TEM Opera Plus FM Family Transmitter 35.45 XSRF
+CVE-2024-41988 - TEM Opera Plus FM Family Transmitter 35.45 Remote Code Execution
