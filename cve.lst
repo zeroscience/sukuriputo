@@ -354,6 +354,7 @@ CVE-2024-6209 - ABB Cylon Aspect 3.08.01 (databaseFileDelete.php) Unauthenticate
 CVE-2024-6298 - ABB Cylon Aspect 3.08.01 (bigUpload.php) Authenticated Remote Code Execution
 CVE-2024-7007 - Positron Broadcast Signal Processor TRA7005 v1.20 _Passwd Exploit
 CVE-2024-9166 - TitanNit Web Control 2.01 / Atemio 7600 Root Remote Code Execution
+CVE-2024-9692 - VIMESA VHF/FM Transmitter Blue Plus 9.7.1 (doreboot) Remote Denial Of Service
 CVE-2024-21846 - Electrolink FM/DAB/TV Transmitter Unauthenticated Remote DoS
 CVE-2024-21872 - Electrolink FM/DAB/TV Transmitter SuperAdmin Hidden Functionality
 CVE-2024-22179 - Electrolink FM/DAB/TV Transmitter Remote Authentication Removal
