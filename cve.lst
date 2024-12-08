@@ -374,4 +374,6 @@ CVE-2024-41988 - TEM Opera Plus FM Family Transmitter 35.45 Remote Code Executio
 CVE-2024-48839 - ABB Cylon Aspect 3.08.01 (servicesUpdate.php) Remote Code Execution
 CVE-2024-48839 - ABB Cylon Aspect 3.08.02 (fileSystemUpdateExecute.php) Remote Code Execution
 CVE-2024-48839 - ABB Cylon Aspect 3.08.02 (servicesUpdate.php) Remote Code Execution
+CVE-2024-48839 - ABB Cylon Aspect 3.08.02 (fileSystemUpdate.php) Remote Guest2Root Exploit
 CVE-2024-48846 - ABB Cylon Aspect 3.08.02 (userManagement.php) Cross-Site Request Forgery
+CVE-2024-51543 - ABB Cylon Aspect 3.08.01 (combinedStats.php) Information Disclosure
