@@ -398,3 +398,5 @@ CVE-2024-51550 - ABB Cylon Aspect 3.08.02 Data Validation / Sanitization
 CVE-2024-51551 - ABB Cylon Aspect 3.08.02 Default Credentials
 CVE-2024-51554 - ABB Cylon Aspect 3.08.02 off-by-one-error
 CVE-2024-51555 - ABB Cylon Aspect 3.08.02 Force Change of Default Credentials
+CVE-2025-0674 - Elber ESE DVB-S/S2 Satellite Receiver 1.5.x Authentication Bypass
+CVE-2025-0675 - Elber ESE DVB-S/S2 Satellite Receiver 1.5.x Device Config
