@@ -392,6 +392,7 @@ CVE-2024-51543 - ABB Cylon Aspect 3.08.02 Information Disclosure
 CVE-2024-51544 - ABB Cylon Aspect 3.08.02 Service Control
 CVE-2024-51545 - ABB Cylon Aspect 3.08.02 Username Enumeration
 CVE-2024-51546 - ABB Cylon Aspect 3.08.02 Credentials Disclosure
+CVE-2024-51547 - ABB Cylon Aspect 3.08.03 Hard-coded Credentials
 CVE-2024-51548 - ABB Cylon Aspect 3.08.02 Dangerous File Upload
 CVE-2024-51549 - ABB Cylon Aspect 3.08.02 Absolute Path Traversal
 CVE-2024-51550 - ABB Cylon Aspect 3.08.02 Data Validation / Sanitization
