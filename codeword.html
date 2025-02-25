@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- by lqwrm -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Gjoko Krstic">
+    <title>Zero Science Lab &raquo; Code to Word Converter</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/atom-one-dark.min.css">
+    <style>
+        body {
+            background: #1e2127;
+            color: #abb2bf;
+            font-family: 'Courier New', monospace;
+            font-size: 10pt;
+            padding: 20px;
+            margin: 0;
+        }
+        #input-container {
+            margin-bottom: 20px;
+        }
+        #code-input {
+            width: 100%;
+            height: 200px;
+            background: #1a1d22;
+            color: #abb2bf;
+            border: none;
+            padding: 10px;
+            font-family: 'Courier New', monospace;
+            font-size: 10pt;
+            box-sizing: border-box;
+            resize: vertical;
+        }
+        #options {
+            margin-top: 10px;
+            position: relative;
+        }
+        #start-line {
+            background: #1a1d22;
+            color: #abb2bf;
+            border: none;
+            padding: 5px;
+            font-family: 'Courier New', monospace;
+        }
+        #convert-btn, #copy-btn {
+            background: #c678dd;
+            color: #1e2127;
+            border: none;
+            padding: 5px 10px;
+            cursor: pointer;
+            font-family: 'Courier New', monospace;
+            font-weight: bold;
+            margin-left: 10px;
+        }
+        #convert-btn:hover, #copy-btn:hover {
+            background: #d19a66;
+        }
+        #output {
+            display: none;
+        }
+        table {
+            border-collapse: collapse;
+            background: #1e2127 !important;
+            color: #abb2bf;
+            border-spacing: 0;
+            width: 100%;
+            max-width: 6.5in;
+            margin: 0;
+        }
+        tr {
+            margin: 0;
+            padding: 0;
+        }
+        td {
+            padding: 0 6px;
+            vertical-align: top;
+            border: none;
+            margin: 0;
+            background: #1e2127 !important;
+        }
+        .line-number {
+            background: #1a1d22 !important;
+            color: #a5a9b2;
+            text-align: right;
+            width: 40px;
+            user-select: none;
+        }
+        .code {
+            white-space: pre;
+            line-height: 1.2;
+            background: #1e2127 !important;
+        }
+        .empty-line {
+            height: 1.2em;
+            background: #1e2127;
+        }
+        .hljs-comment { color: #5c6370; }
+        .hljs-quote { color: #5c6370; }
+        .hljs-keyword { color: #c678dd; }
+        .hljs-string { color: #98c379; }
+        .hljs-number { color: #d19a66; }
+        .hljs-title { color: #61afef; }
+        .hljs-name { color: #e06c75; }
+        footer {
+            margin-top: 20px;
+            font-size: 8pt;
+            color: #a5a9b2;
+            text-align: center;
+        }
+        #info-btn {
+            background: #5a829e; /* Desaturated asphalt blue */
+            color: rgba(255, 255, 255, 0.8); /* 80% white */
+            border: none;
+            border-radius: 50%;
+            width: 16px;
+            height: 16px;
+            font-size: 10pt;
+            line-height: 16px;
+            text-align: center;
+            cursor: pointer;
+            margin-left: 10px;
+            display: inline-block;
+            vertical-align: middle;
+        }
+        #info-btn:hover {
+            background: #6a92ae;
+        }
+        #info-tooltip {
+            display: none;
+            position: absolute;
+            top: 30px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: #1a1d22;
+            color: #abb2bf;
+            padding: 5px 10px;
+            border-radius: 3px;
+            font-size: 9pt;
+            white-space: nowrap;
+            z-index: 10;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+        }
+    </style>
+</head>
+<body>
+    <div id="input-container">
+        <textarea id="code-input" placeholder="Paste your code here..."></textarea>
+        <div id="options">
+            <label for="start-line">Start line number: </label>
+            <input type="number" id="start-line" value="1" min="1">
+            <button id="convert-btn">Convert</button>
+            <button id="copy-btn" style="display: none;">Copy to Clipboard</button>
+            <span id="info-btn">i</span>
+            <div id="info-tooltip">This tool is used for pasting code with line numbers and syntax highlighting in Word.</div>
+        </div>
+    </div>
+    <div id="output">
+        <table id="output-table"></table>
+    </div>
+    <footer>
+        Codeword v1.0<br><br>
+        Copyleft © 2025 Powered by Zero Science Lab. Some rights reserved.<br>
+        Includes Highlight.js - Licensed under the BSD 3-Clause License.
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+    <script>
+        const convertBtn = document.getElementById('convert-btn');
+        const copyBtn = document.getElementById('copy-btn');
+        const outputTable = document.getElementById('output-table');
+        const infoBtn = document.getElementById('info-btn');
+        const infoTooltip = document.getElementById('info-tooltip');
+
+        convertBtn.addEventListener('click', function() {
+            const code = document.getElementById('code-input').value;
+            const startLine = parseInt(document.getElementById('start-line').value) || 1;
+            outputTable.innerHTML = '';
+
+            const emptyRowBefore = document.createElement('tr');
+            const emptyCellBefore = document.createElement('td');
+            emptyCellBefore.className = 'empty-line';
+            emptyCellBefore.colSpan = 2;
+            emptyRowBefore.appendChild(emptyCellBefore);
+            outputTable.appendChild(emptyRowBefore);
+
+            const lines = code.split('\n');
+            lines.forEach((line, index) => {
+                const row = document.createElement('tr');
+                
+                const lineNumCell = document.createElement('td');
+                lineNumCell.className = 'line-number';
+                lineNumCell.textContent = startLine + index;
+                row.appendChild(lineNumCell);
+
+                const codeCell = document.createElement('td');
+                codeCell.className = 'code language-php';
+                codeCell.textContent = line;
+                row.appendChild(codeCell);
+
+                outputTable.appendChild(row);
+            });
+
+            for (let i = 0; i < 2; i++) {
+                const emptyRowAfter = document.createElement('tr');
+                const emptyCellAfter = document.createElement('td');
+                emptyCellAfter.className = 'empty-line';
+                emptyCellAfter.colSpan = 2;
+                emptyRowAfter.appendChild(emptyCellAfter);
+                outputTable.appendChild(emptyRowAfter);
+            }
+
+            document.querySelectorAll('.code').forEach(block => {
+                hljs.highlightElement(block);
+            });
+
+            document.getElementById('output').style.display = 'block';
+            copyBtn.style.display = 'inline-block';
+        });
+
+        copyBtn.addEventListener('click', function() {
+            const range = document.createRange();
+            range.selectNodeContents(outputTable);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+
+            try {
+                document.execCommand('copy');
+                alert('Table copied to clipboard with formatting! Paste it into Word.');
+            } catch (err) {
+                console.error('Failed to copy: ', err);
+                alert('Failed to copy to clipboard. Please use Ctrl+C manually.');
+            }
+
+            selection.removeAllRanges();
+        });
+
+        infoBtn.addEventListener('click', function() {
+            infoTooltip.style.display = 'block';
+            setTimeout(() => {
+                infoTooltip.style.display = 'none';
+            }, 5000);
+        });
+    </script>
+</body>
+</html>
