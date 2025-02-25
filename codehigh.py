@@ -1,3 +1,10 @@
+#!/usr/bin/env python
+#
+# 2025 (c) Zero Science Lab
+#
+# Ver: 1.0
+#
+
 import sys
 import html
 
@@ -12,7 +19,7 @@ def get_html_template(rows):
         '    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/atom-one-dark.min.css">',
         '    <style>',
         '        body {',
-        '            background: #1e2127;',  # 15% darker background
+        '            background: #1e2127;',
         '            color: #abb2bf;',
         '            font-family: \'Courier New\', monospace;',
         '            font-size: 10pt;',
