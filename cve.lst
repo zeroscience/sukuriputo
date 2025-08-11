@@ -439,3 +439,10 @@ CVE-2025-34022 - Selea Targa IP OCR-ANPR Camera Unauthenticated Directory Traver
 CVE-2025-34035 - EnGenius EnShare IoT Gigabit Cloud Service 1.4.11 Root Remote Code Execution
 CVE-2025-34042 - BEWARD N100 H.264 VGA IP Camera M2.1.6 Root Remote Code Execution
 CVE-2025-34101 - Serviio PRO 1.8 DLNA Media Streaming Server REST API Arbitrary Code Execution
+CVE-2025-53187 - ABB Cylon Aspect 3.08.04-s01 Unauthenticated RCE
+CVE-2025-53188 - ABB Cylon Aspect 3.08.04-s01 Unauthenticated Credentials Exposure
+CVE-2025-53189 - ABB Cylon Aspect 3.08.04-s01 Unauthenticated File Manipulation
+CVE-2025-53190 - ABB Cylon Aspect 3.08.04-s01 Unauthenticated Time Manipulation
+CVE-2025-53191 - ABB Cylon Aspect 3.08.04-s01 Unauthenticated Network Manipulation
+CVE-2025-53192 - ABB Cylon Aspect 3.08.04-s01 DOS attack possible
+CVE-2025-53193 - ABB Cylon Aspect 3.08.04-s01 Session ID Basic Auth Bypass
