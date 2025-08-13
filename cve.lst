@@ -444,5 +444,5 @@ CVE-2025-53188 - ABB Cylon Aspect 3.08.04-s01 Unauthenticated Credentials Exposu
 CVE-2025-53189 - ABB Cylon Aspect 3.08.04-s01 Unauthenticated File Manipulation
 CVE-2025-53190 - ABB Cylon Aspect 3.08.04-s01 Unauthenticated Time Manipulation
 CVE-2025-53191 - ABB Cylon Aspect 3.08.04-s01 Unauthenticated Network Manipulation
-CVE-2025-53192 - ABB Cylon Aspect 3.08.04-s01 DOS attack possible
-CVE-2025-53193 - ABB Cylon Aspect 3.08.04-s01 Session ID Basic Auth Bypass
+CVE-2025-7677 - ABB Cylon Aspect 3.08.04-s01 DOS attack possible
+CVE-2025-7679 - ABB Cylon Aspect 3.08.04-s01 Session ID Basic Auth Bypass
