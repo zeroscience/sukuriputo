@@ -11,6 +11,7 @@ CVE-2009-2173 - Carom3D 5.06 Unicode Buffer Overrun/DoS Vulnerability
 CVE-2009-3811 - Music Tag Editor 1.61 build 212 Remote Buffer Overflow PoC
 CVE-2009-3859 - eEye Retina WiFi Security Scanner 1.0 (.rws Parsing) Buffer Overflow PoC
 CVE-2009-4201 - Mp3 Tag Assistant Pro 2.92 (tag metadata) Remote Stack Overflow PoC
+CVE-2009-20007 - Talkative IRC 0.4.4.16 Remote Stack Overflow Exploit (SEH)
 CVE-2010-0700 - WampServer 2.0i (index.php) Remote Cross Site Scripting Vulnerability
 CVE-2010-1280 - Adobe Shockwave Player 11.5.6.606 (DIR) Multiple Memory Vulnerabilities
 CVE-2010-1296 - Adobe Photoshop CS4 Extended 11.0 ASL File Handling Remote Buffer Overflow PoC
