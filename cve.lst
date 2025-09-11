@@ -428,6 +428,9 @@ CVE-2025-0674 - Elber ESE DVB-S/S2 Satellite Receiver 1.5.x Authentication Bypas
 CVE-2025-0675 - Elber ESE DVB-S/S2 Satellite Receiver 1.5.x Device Config
 CVE-2025-2409 - ABB Cylon Aspect 3.08.03 CLASSIFICATION: Admin Authorized System File corruption
 CVE-2025-2410 - ABB Cylon Aspect 3.08.03 CLASSIFICATION: Admin Authorized Port (iptables) manipulation (open/close/disable ports)
+CVE-2025-7677 - ABB Cylon Aspect 3.08.04-s01 DOS attack possible
+CVE-2025-7679 - ABB Cylon Aspect 3.08.04-s01 Session ID Basic Auth Bypass
+CVE-2025-10127 - Daikin Security Gateway v214 Remote Password Reset
 CVE-2025-25037 - Aquatronica Control System 5.1.6 Passwords Leak Vulnerability
 CVE-2025-25038 - MiniDVBLinux 5.4 Remote Root Command Injection Vulnerability
 CVE-2025-30169 - ABB Cylon Aspect 3.08.03 CLASSIFICATION: Admin Authorized File Upload and Execute PHP
@@ -441,5 +444,3 @@ CVE-2025-34035 - EnGenius EnShare IoT Gigabit Cloud Service 1.4.11 Root Remote C
 CVE-2025-34042 - BEWARD N100 H.264 VGA IP Camera M2.1.6 Root Remote Code Execution
 CVE-2025-34101 - Serviio PRO 1.8 DLNA Media Streaming Server REST API Arbitrary Code Execution
 CVE-2025-53187 - ABB Cylon Aspect 3.08.04-s01 (DeploySource) Unauthenticated Remote Code Execution
-CVE-2025-7677 - ABB Cylon Aspect 3.08.04-s01 DOS attack possible
-CVE-2025-7679 - ABB Cylon Aspect 3.08.04-s01 Session ID Basic Auth Bypass
