@@ -443,4 +443,9 @@ CVE-2025-34022 - Selea Targa IP OCR-ANPR Camera Unauthenticated Directory Traver
 CVE-2025-34035 - EnGenius EnShare IoT Gigabit Cloud Service 1.4.11 Root Remote Code Execution
 CVE-2025-34042 - BEWARD N100 H.264 VGA IP Camera M2.1.6 Root Remote Code Execution
 CVE-2025-34101 - Serviio PRO 1.8 DLNA Media Streaming Server REST API Arbitrary Code Execution
+CVE-2025-34183 - Ilevia EVE X1 Server 4.7.18.0.eden Credentials Leak Through Log Disclosure
+CVE-2025-34184 - Ilevia EVE X1 Server 4.7.18.0.eden Neuro-Core Unauth Code Invasion
+CVE-2025-34185 - Ilevia EVE X1 Server 4.7.18.0.eden (db_log) Pre-Auth File Disclosure
+CVE-2025-34186 - Ilevia EVE X1/X5 Server 4.7.18.0.eden Authentication Bypass Exploit
+CVE-2025-34187 - Ilevia EVE X1/X5 Server 4.7.18.0.eden Reverse Rootshell
 CVE-2025-53187 - ABB Cylon Aspect 3.08.04-s01 (DeploySource) Unauthenticated Remote Code Execution
