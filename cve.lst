@@ -431,6 +431,8 @@ CVE-2025-2410 - ABB Cylon Aspect 3.08.03 CLASSIFICATION: Admin Authorized Port (
 CVE-2025-7677 - ABB Cylon Aspect 3.08.04-s01 DOS attack possible
 CVE-2025-7679 - ABB Cylon Aspect 3.08.04-s01 Session ID Basic Auth Bypass
 CVE-2025-10127 - Daikin Security Gateway v214 Remote Password Reset
+CVE-2025-10205 - ABB Cylon FLXeon Controllers <=9.3.5 Predictable Salt and Weak Hashing Algorithm
+CVE-2025-10207 - ABB Cylon FLXeon Controllers <=9.3.5 Authenticated File Disclosure/Delete
 CVE-2025-25037 - Aquatronica Control System 5.1.6 Passwords Leak Vulnerability
 CVE-2025-25038 - MiniDVBLinux 5.4 Remote Root Command Injection Vulnerability
 CVE-2025-30169 - ABB Cylon Aspect 3.08.03 CLASSIFICATION: Admin Authorized File Upload and Execute PHP
@@ -448,4 +450,6 @@ CVE-2025-34184 - Ilevia EVE X1 Server 4.7.18.0.eden Neuro-Core Unauth Code Invas
 CVE-2025-34185 - Ilevia EVE X1 Server 4.7.18.0.eden (db_log) Pre-Auth File Disclosure
 CVE-2025-34186 - Ilevia EVE X1/X5 Server 4.7.18.0.eden Authentication Bypass Exploit
 CVE-2025-34187 - Ilevia EVE X1/X5 Server 4.7.18.0.eden Reverse Rootshell
+CVE-2024-48842 - ABB Cylon FLXeon Controllers <=9.3.5 Hardcoded Passwords
+CVE-2024-48851 - ABB Cylon FLXeon Controllers <=9.3.5 Remote Code Execution
 CVE-2025-53187 - ABB Cylon Aspect 3.08.04-s01 (DeploySource) Unauthenticated Remote Code Execution
