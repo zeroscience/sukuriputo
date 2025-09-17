@@ -399,6 +399,7 @@ CVE-2024-41988 - TEM Opera Plus FM Family Transmitter 35.45 Remote Code Executio
 CVE-2024-48839 - ABB Cylon Aspect 3.08.02 Remote Code Execution RCE
 CVE-2024-48840 - ABB Cylon Aspect 3.08.02 Unauthorized Access
 CVE-2024-48841 - ABB Cylon FLXeon Controllers <=9.3.4 Remote Code Execution (RCE) Vulnerabilities
+CVE-2024-48842 - ABB Cylon FLXeon Controllers <=9.3.5 Hardcoded Passwords
 CVE-2024-48843 - ABB Cylon Aspect 3.08.02 SQL Injection
 CVE-2024-48844 - ABB Cylon Aspect 3.08.02 Denial of Service DoS
 CVE-2024-48845 - ABB Cylon Aspect 3.08.02 Weak Password Rules/Strength
@@ -407,6 +408,7 @@ CVE-2024-48847 - ABB Cylon Aspect 3.08.02 MD5 bypass operation
 CVE-2024-48848 - ABB Cylon Aspect 3.08.03 LARGECONTENT - device disk overutilization
 CVE-2024-48849 - ABB Cylon FLXeon Controllers <=9.3.4 Authentication and Authorziation Issues
 CVE-2024-48850 - ABB Cylon Aspect 3.08.03 Authenticated Absolute Path Traversal
+CVE-2024-48851 - ABB Cylon FLXeon Controllers <=9.3.5 Remote Code Execution
 CVE-2024-48852 - ABB Cylon FLXeon Controllers <=9.3.4 Information Disclosure
 CVE-2024-48853 - ABB Cylon Aspect 3.08.03 Authenticated Escalation to guest to root
 CVE-2024-51541 - ABB Cylon Aspect 3.08.02 Local File Inclusion
@@ -450,6 +452,4 @@ CVE-2025-34184 - Ilevia EVE X1 Server 4.7.18.0.eden Neuro-Core Unauth Code Invas
 CVE-2025-34185 - Ilevia EVE X1 Server 4.7.18.0.eden (db_log) Pre-Auth File Disclosure
 CVE-2025-34186 - Ilevia EVE X1/X5 Server 4.7.18.0.eden Authentication Bypass Exploit
 CVE-2025-34187 - Ilevia EVE X1/X5 Server 4.7.18.0.eden Reverse Rootshell
-CVE-2024-48842 - ABB Cylon FLXeon Controllers <=9.3.5 Hardcoded Passwords
-CVE-2024-48851 - ABB Cylon FLXeon Controllers <=9.3.5 Remote Code Execution
 CVE-2025-53187 - ABB Cylon Aspect 3.08.04-s01 (DeploySource) Unauthenticated Remote Code Execution
