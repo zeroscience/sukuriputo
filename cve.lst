@@ -454,7 +454,10 @@ CVE-2025-34186 - Ilevia EVE X1/X5 Server 4.7.18.0.eden Authentication Bypass Exp
 CVE-2025-34187 - Ilevia EVE X1/X5 Server 4.7.18.0.eden Reverse Rootshell
 CVE-2025-34512 - Ilevia EVE X1 Server 4.7.18.0.eden Unauthenticated Reflected XSS
 CVE-2025-34513 - Ilevia EVE X1 Server 4.7.18.0.eden (mbus) Unauthenticated Remote Command Injection
+CVE-2025-34514 - Ilevia EVE X1 Server 4.7.18.0.eden Authenticated Command Injection
+CVE-2025-34515 - Ilevia EVE X1 Server 4.7.18.0.eden Root Privilege Escalation
 CVE-2025-34516 - Ilevia EVE X1 Server 4.7.18.0.eden Default Credentials
 CVE-2025-34517 - Ilevia EVE X1 Server 4.7.18.0.eden Parameter Traversal Arbitrary File Access
 CVE-2025-34518 - Ilevia EVE X1 Server 4.7.18.0.eden Parameter Traversal Arbitrary File Access
+CVE-2025-34519 - Ilevia EVE X1 Server 4.7.18.0.eden Insecure Hashing Algorithm
 CVE-2025-53187 - ABB Cylon Aspect 3.08.04-s01 (DeploySource) Unauthenticated Remote Code Execution
