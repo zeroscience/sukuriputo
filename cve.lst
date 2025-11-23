@@ -244,6 +244,7 @@ CVE-2020-22004 - B-swiss 3 Digital Signage System 3.6.5 Backdoor Remote Code Exe
 CVE-2020-22005 - B-swiss 3 Digital Signage System 3.6.5 CSRF Add Maintenance Admin
 CVE-2020-22006 - B-swiss 3 Digital Signage System 3.6.5 Database Disclosure
 CVE-2021-4463 - Longjing Technology BEMS API 1.21 Remote Arbitrary File Download
+CVE-2021-4465 - ReQuest Serious Play F3 Media Server 7.0.3 Remote Denial of Service
 CVE-2021-26549 - SmartFoxServer 2X 2.17.0 God Mode Console WebSocket XSS
 CVE-2021-26550 - SmartFoxServer 2X 2.17.0 Credentials Disclosure
 CVE-2021-26551 - SmartFoxServer 2X 2.17.0 God Mode Console Remote Code Execution
@@ -313,6 +314,7 @@ CVE-2023-5754 - Sielco PolyEco Digital FM Transmitter 2.0.6 Default Credentials
 CVE-2023-6928 - EuroTel ETL3100 Transmitter Default Credentials
 CVE-2023-6929 - EuroTel ETL3100 Transmitter Authorization Bypass (IDOR)
 CVE-2023-6930 - EuroTel ETL3100 Transmitter Unauthenticated Config/Log Download Vulnerability
+CVE-2023-7328 - Screen SFT DAB 600/C Unauthenticated Information Disclosure (userManager.cgx)
 CVE-2023-7329 - Tinycontrol LAN Controller v3 (LK3) Remote Denial Of Service Exploit
 CVE-2023-22971 - Hughes Satellite Router Remote File Inclusion Cross-Frame Scripting
 CVE-2023-27394 - Osprey Pump Controller 1.0.1 (eventFileSelected) Command Injection
