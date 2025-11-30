@@ -21,7 +21,7 @@ def encrypt_bytes(plaintext: bytes, passphrase: str) -> bytes:
 
 def decrypt_bytes(blob: bytes, passphrase: str) -> bytes:
     if not blob.startswith(MAGIC + VERSION) or len(blob) < 33:
-        raise ValueError('Not a SafeEdit file')
+        raise ValueError('Not a SillyEncrypt file')
     salt = blob[5:21]
     nonce = blob[21:33]
     ct = blob[33:]
