@@ -1,0 +1,64 @@
+
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SillyEncrypt by SillySec.com</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header>
+    <h1>SillyEncrypt (Web Only)</h1>
+    <p class="sub">Create text → download encrypted .zsl. Decrypt .zsl → view & download .txt.</p>
+  </header>
+
+  <main>
+    <section class="card">
+      <h2>New / Encrypt</h2>
+      <label>Output filename (.zsl)
+        <input id="enc-filename" type="text" placeholder="mydoc.zsl" value="mydoc.zsl">
+      </label>
+      <label>Passphrase
+        <div class="passwrap">
+          <input id="enc-pass" type="password" placeholder="passphrase">
+          <button type="button" class="toggle-pass" data-target="enc-pass" title="Show/Hide">👁</button>
+        </div>
+      </label>
+      <label>Text to encrypt</label>
+      <textarea id="enc-content" rows="10" placeholder="Type text here..."></textarea>
+      <div class="row">
+        <button id="btn-encrypt">Download Encrypted</button>
+        <span id="enc-msg" class="msg"></span>
+      </div>
+    </section>
+
+    <section id="decryptCard" class="card">
+      <h2>Decrypt</h2>
+      <label>Encrypted file (.zsl)
+        <input id="dec-file" type="file" accept=".zsl,application/octet-stream">
+      </label>
+      <label>Passphrase
+        <div class="passwrap">
+          <input id="dec-pass" type="password" placeholder="passphrase">
+          <button type="button" class="toggle-pass" data-target="dec-pass" title="Show/Hide">👁</button>
+        </div>
+      </label>
+      <div class="row">
+        <button id="btn-decrypt">Decrypt</button>
+        <span id="dec-msg" class="msg"></span>
+      </div>
+      <label>Decrypted text</label>
+      <textarea id="dec-content" rows="10" placeholder="Decrypted text appears here"></textarea>
+      <div class="row">
+        <button id="btn-download-txt" disabled>Download .txt</button>
+      </div>
+      <p class="hint">Tip: drag & drop a <code>.zsl</code> file anywhere in this card.</p>
+    </section>
+  </main>
+
+  <footer id="statusBar" class="idle">Idle</footer>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
