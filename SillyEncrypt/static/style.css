@@ -1,0 +1,24 @@
+
+:root{--bg:#0e1220;--card:#1c2238;--text:#e8eefc;--muted:#a9b7d9;--accent:#7fb3ff;--err:#ff6b6b;--work:#ffd166}
+*{box-sizing:border-box}
+body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Arial,sans-serif;background:var(--bg);color:var(--text)}
+header{padding:18px}
+h1{margin:0 0 6px 0}
+.sub{color:var(--muted);margin:0}
+main{padding:18px;display:grid;gap:16px;grid-template-columns:1fr}
+.card{background:var(--card);padding:14px;border-radius:10px;box-shadow:0 6px 20px rgba(0,0,0,.25);border:1px solid transparent;transition:border-color .15s ease}
+.card.drag{border:2px dashed var(--accent)}
+label{display:block;margin:8px 0;color:var(--muted)}
+input[type="text"],input[type="password"],textarea{width:100%;padding:10px;border:1px solid #2a3352;background:#11172b;color:var(--text);border-radius:8px}
+textarea{resize:vertical}
+.row{display:flex;align-items:center;gap:12px;margin-top:10px}
+button{padding:10px 14px;border:0;border-radius:8px;background:var(--accent);color:#071222;font-weight:600;cursor:pointer}
+button[disabled]{opacity:.6;cursor:not-allowed}
+.msg{color:var(--muted)}
+.hint{color:var(--muted);font-size:12px;margin-top:6px}
+.passwrap{display:flex;align-items:center;gap:6px}
+.passwrap input{flex:1}
+.toggle-pass{padding:6px 8px;font-size:12px;background:#2a3352;color:#e8eefc;border-radius:6px}
+#statusBar{position:fixed;bottom:0;left:0;right:0;padding:8px 12px;text-align:center;font-weight:700;background:#1c2238;color:#9cf;border-top:1px solid #2b3558}
+#statusBar.working{background:var(--work);color:#000}
+#statusBar.error{background:var(--err);color:#fff}
