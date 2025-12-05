@@ -431,6 +431,7 @@ CVE-2024-51552 - ABB Cylon Aspect 3.08.03 Weak Password Storage
 CVE-2024-51553 - ABB Cylon Aspect 3.08.03 Predictable Filename
 CVE-2024-51554 - ABB Cylon Aspect 3.08.02 off-by-one-error
 CVE-2024-51555 - ABB Cylon Aspect 3.08.02 Force Change of Default Credentials
+CVE-2024-58277 - R Radio Network FM Transmitter 1.07 system.cgi Password Disclosure
 CVE-2025-0674 - Elber ESE DVB-S/S2 Satellite Receiver 1.5.x Authentication Bypass
 CVE-2025-0675 - Elber ESE DVB-S/S2 Satellite Receiver 1.5.x Device Config
 CVE-2025-2409 - ABB Cylon Aspect 3.08.03 CLASSIFICATION: Admin Authorized System File corruption
