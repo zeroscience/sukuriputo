@@ -244,6 +244,9 @@ CVE-2020-22004 - B-swiss 3 Digital Signage System 3.6.5 Backdoor Remote Code Exe
 CVE-2020-22005 - B-swiss 3 Digital Signage System 3.6.5 CSRF Add Maintenance Admin
 CVE-2020-22006 - B-swiss 3 Digital Signage System 3.6.5 Database Disclosure
 CVE-2020-36872 - BACnet Test Server 1.01 Malformed BVLC Length DoS
+CVE-2020-36876 - ReQuest Serious Play F3 Media Server 7.0.3 Debug Log Disclosure
+CVE-2020-36877 - ReQuest Serious Play F3 Media Server 7.0.3 Unauthenticated Remote Code Execution
+CVE-2020-36878 - ReQuest Serious Play Media Player 3.0 Directory Traversal File Disclosure Vulnerability
 CVE-2021-4463 - Longjing Technology BEMS API 1.21 Remote Arbitrary File Download
 CVE-2021-4465 - ReQuest Serious Play F3 Media Server 7.0.3 Remote Denial of Service
 CVE-2021-26549 - SmartFoxServer 2X 2.17.0 God Mode Console WebSocket XSS
