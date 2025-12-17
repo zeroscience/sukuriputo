@@ -247,6 +247,23 @@ CVE-2020-36872 - BACnet Test Server 1.01 Malformed BVLC Length DoS
 CVE-2020-36876 - ReQuest Serious Play F3 Media Server 7.0.3 Debug Log Disclosure
 CVE-2020-36877 - ReQuest Serious Play F3 Media Server 7.0.3 Unauthenticated Remote Code Execution
 CVE-2020-36878 - ReQuest Serious Play Media Player 3.0 Directory Traversal File Disclosure Vulnerability
+CVE-2020-36883 - SpinetiX Fusion Digital Signage 3.4.8 File Backup/Delete Path Traversal
+CVE-2020-36884 - BrightSign Digital Signage Diagnostic Web Server 8.2.26 Unauthenticated SSRF
+CVE-2020-36885 - Sony IPELA Network Camera (ftpclient.cgi) Remote Stack Buffer Overflow
+CVE-2020-36886 - SpinetiX Fusion Digital Signage 3.4.8 CSRF Add Admin Exploit
+CVE-2020-36887 - SpinetiX Fusion Digital Signage 3.4.8 Database Backup Disclosure
+CVE-2020-36888 - SpinetiX Fusion Digital Signage 3.4.8 Username Enumeration Weakness
+CVE-2020-36892 - Eibiz i-Media Server Digital Signage 3.8.0 Remote Privilege Escalation / Account Takeover
+CVE-2020-36893 - Eibiz i-Media Server Digital Signage 3.8.0 (oldfile) File Path Traversal
+CVE-2020-36894 - Eibiz i-Media Server Digital Signage 3.8.0 (createUser) Authentication Bypass (Add Admin)
+CVE-2020-36895 - Eibiz i-Media Server Digital Signage 3.8.0 Configuration Disclosure
+CVE-2020-36896 - QiHang Media Web (QH.aspx) Digital Signage 3.0.9 Cleartext Credentials Disclosure
+CVE-2020-36897 - QiHang Media Web (QH.aspx) Digital Signage 3.0.9 (pre-auth) Remote Code Execution
+CVE-2020-36898 - QiHang Media Web (QH.aspx) Digital Signage 3.0.9 Unauthenticated Arbitrary File Deletion
+CVE-2020-36899 - QiHang Media Web (QH.aspx) Digital Signage 3.0.9 Arbitrary File Disclosure Vulnerability
+CVE-2020-36900 - All-Dynamics Software enlogic:show Digital Signage System 2.0.2 CSRF Add Admin
+CVE-2020-36901 - UBICOD Medivision Digital Signage 1.5.1 CSRF Add Super Admin
+CVE-2020-36902 - UBICOD Medivision Digital Signage 1.5.1 Privilege Escalation Through Authorization Bypass
 CVE-2021-4463 - Longjing Technology BEMS API 1.21 Remote Arbitrary File Download
 CVE-2021-4465 - ReQuest Serious Play F3 Media Server 7.0.3 Remote Denial of Service
 CVE-2021-26549 - SmartFoxServer 2X 2.17.0 God Mode Console WebSocket XSS
@@ -294,6 +311,26 @@ CVE-2021-41300 - ECOA Building Automation System Hidden Backdoor Accounts and ba
 CVE-2021-41301 - ECOA Building Automation System Configuration Download Information Disclosure
 CVE-2021-41302 - ECOA Building Automation System Missing Encryption Of Sensitive Information
 CVE-2021-43442 - i3 International Annexxus Cameras Ax-n 5.2.0 Application Logic Flaw
+CVE-2021-47701 - OpenBMCS 2.4 Create Admin / Remote Privilege Escalation
+CVE-2021-47702 - OpenBMCS 2.4 CSRF Send E-mail
+CVE-2021-47703 - OpenBMCS 2.4 Unauthenticated SSRF / RFI
+CVE-2021-47704 - OpenBMCS 2.4 Authenticated SQL Injection
+CVE-2021-47705 - COMMAX UMS Client ActiveX Control 1.7.0.2 (CNC_Ctrl.dll) Heap Buffer Overflow
+CVE-2021-47706 - COMMAX Biometric Access Control System 1.0.0 Authentication Bypass
+CVE-2021-47707 - COMMAX CVD-Axx DVR 5.1.4 Weak Default Credentials Stream Disclosure
+CVE-2021-47708 - COMMAX Smart Home IoT Control System CDP-1020n SQL Injection Authentication Bypass
+CVE-2021-47709 - COMMAX Smart Home Ruvie CCTV Bridge DVR Service Unauthenticated Config Write / DoS
+CVE-2021-47710 - COMMAX Smart Home Ruvie CCTV Bridge DVR Service RTSP Credentials Disclosure
+CVE-2021-47717 - IntelliChoice eFORCE Software Suite v2.5.9 Username Enumeration
+CVE-2021-47718 - OpenBMCS 2.4 Secrets Disclosure
+CVE-2021-47719 - COMMAX WebViewer ActiveX Control 2.1.4.5 (Commax_WebViewer.ocx) Buffer Overflow
+CVE-2021-47723 - STVS ProVision 5.9.10 Cross-Site Request Forgery (Add Admin)
+CVE-2021-47724 - STVS ProVision 5.9.10 (archive.rb) Authenticated File Disclosure Vulnerability
+CVE-2021-47727 - Selea Targa IP OCR-ANPR Camera Unauthenticated RTP/RTSP/M-JPEG Stream Disclosure
+CVE-2021-47728 - Selea Targa IP OCR-ANPR Camera Unauthenticated Remote Code Execution
+CVE-2021-47729 - Selea Targa IP OCR-ANPR Camera Remote Stored XSS
+CVE-2021-47730 - Selea Targa IP OCR-ANPR Camera CSRF Add Admin Exploit
+CVE-2021-47731 - Selea Targa IP OCR-ANPR Camera Developer Backdoor Config Overwrite
 CVE-2022-0365 - Ricon Industrial Cellular Router S9922XL Remote Command Execution
 CVE-2022-4621 - Panasonic Sanyo CCTV Network Camera 2.03-0x CSRF Disable Authentication / Change Password
 CVE-2022-25359 - ICL ScadaFlex II SCADA Controllers SC-1/SC-2 1.03.07 Remote File CRUD
@@ -354,6 +391,17 @@ CVE-2023-49523 - OctoberCMS v3.4.0 (Author) Stored Cross-Site Scripting Vulnerab
 CVE-2023-49524 - OctoberCMS v3.4.0 (Wiki_article) Stored Cross-Site Scripting Vulnerability
 CVE-2023-49525 - OctoberCMS v3.4.0 (Category) Stored Cross-Site Scripting Vulnerability
 CVE-2023-52277 - RoyalTSX 6.0.1 RTSZ File Handling Heap Memory Corruption PoC
+CVE-2023-53739 - Tinycontrol LAN Controller v3 (LK3) Remote Credentials Extraction PoC
+CVE-2023-53740 - Screen SFT DAB 600/C Authentication Bypass Admin Password Change Exploit
+CVE-2023-53741 - Screen SFT DAB 600/C Authentication Bypass Erase Account Exploit
+CVE-2023-53770 - MiniDVBLinux 5.4 Config Download Exploit
+CVE-2023-53771 - MiniDVBLinux 5.4 Change Root Password PoC
+CVE-2023-53772 - MiniDVBLinux 5.4 Arbitrary File Read Vulnerability
+CVE-2023-53773 - MiniDVBLinux 5.4 Unauthenticated Stream Disclosure Vulnerability
+CVE-2023-53774 - MiniDVBLinux 5.4 Simple VideoDiskRecorder Protocol SVDRP (svdrpsend.sh) Exploit
+CVE-2023-53775 - Screen SFT DAB 600/C Authentication Bypass Password Change Exploit
+CVE-2023-53776 - Screen SFT DAB 600/C Authentication Bypass Reset Board Config Exploit
+CVE-2023-53893 - Ateme TITAN File 3.9 Job Callbacks SSRF File Enumeration
 CVE-2024-1491 - Electrolink FM/DAB/TV Transmitter Pre-Auth MPFS Image Remote Code Execution
 CVE-2024-3741 - Electrolink FM/DAB/TV Transmitter (Login Cookie) Authentication Bypass
 CVE-2024-3742 - Electrolink FM/DAB/TV Transmitter (login.htm/mail.htm) Credentials Disclosure
