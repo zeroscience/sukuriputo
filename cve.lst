@@ -402,6 +402,18 @@ CVE-2023-53774 - MiniDVBLinux 5.4 Simple VideoDiskRecorder Protocol SVDRP (svdrp
 CVE-2023-53775 - Screen SFT DAB 600/C Authentication Bypass Password Change Exploit
 CVE-2023-53776 - Screen SFT DAB 600/C Authentication Bypass Reset Board Config Exploit
 CVE-2023-53893 - Ateme TITAN File 3.9 Job Callbacks SSRF File Enumeration
+CVE-2023-53955 - SOUND4 IMPACT/FIRST/PULSE/Eco v2.x Authorization Bypass via Insecure Object References
+CVE-2023-53960 - SOUND4 IMPACT/FIRST/PULSE/Eco v2.x SQL Injection via Authentication Bypass
+CVE-2023-53961 - SOUND4 IMPACT/FIRST/PULSE/Eco v2.x Cross-Site Request Forgery
+CVE-2023-53962 - SOUND4 IMPACT/FIRST/PULSE/Eco v2.x Unauthenticated Directory Traversal File Write
+CVE-2023-53963 - SOUND4 IMPACT/FIRST/PULSE/Eco v2.x Unauthenticated Remote Command Injection
+CVE-2023-53964 - SOUND4 IMPACT/FIRST/PULSE/Eco v2.x Unauthenticated Factory Reset Vulnerability
+CVE-2023-53965 - SOUND4 Server Service 4.1.102 Local Privilege Escalation
+CVE-2023-53966 - SOUND4 LinkAndShare Transmitter 1.1.2 Format String Stack Buffer Overflow
+CVE-2023-53967 - Screen SFT DAB 600/C Firmware 1.9.3 Authentication Bypass Admin Password Change
+CVE-2023-53968 - Screen SFT DAB 600/C Firmware 1.9.3 Authentication Bypass Erase Account
+CVE-2023-53969 - Screen SFT DAB 600/C Firmware 1.9.3 Authentication Bypass Password Change
+CVE-2023-53970 - Screen SFT DAB 600/C Firmware 1.9.3 Authentication Bypass Reset Board Config
 CVE-2024-1491 - Electrolink FM/DAB/TV Transmitter Pre-Auth MPFS Image Remote Code Execution
 CVE-2024-3741 - Electrolink FM/DAB/TV Transmitter (Login Cookie) Authentication Bypass
 CVE-2024-3742 - Electrolink FM/DAB/TV Transmitter (login.htm/mail.htm) Credentials Disclosure
