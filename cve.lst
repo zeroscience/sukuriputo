@@ -324,6 +324,7 @@ CVE-2021-47710 - COMMAX Smart Home Ruvie CCTV Bridge DVR Service RTSP Credential
 CVE-2021-47717 - IntelliChoice eFORCE Software Suite v2.5.9 Username Enumeration
 CVE-2021-47718 - OpenBMCS 2.4 Secrets Disclosure
 CVE-2021-47719 - COMMAX WebViewer ActiveX Control 2.1.4.5 (Commax_WebViewer.ocx) Buffer Overflow
+CVE-2021-47722 - Zucchetti Axess CLOKI Access Control 1.64 Cross-Site Request Forgery
 CVE-2021-47723 - STVS ProVision 5.9.10 Cross-Site Request Forgery (Add Admin)
 CVE-2021-47724 - STVS ProVision 5.9.10 (archive.rb) Authenticated File Disclosure Vulnerability
 CVE-2021-47727 - Selea Targa IP OCR-ANPR Camera Unauthenticated RTP/RTSP/M-JPEG Stream Disclosure
@@ -331,6 +332,7 @@ CVE-2021-47728 - Selea Targa IP OCR-ANPR Camera Unauthenticated Remote Code Exec
 CVE-2021-47729 - Selea Targa IP OCR-ANPR Camera Remote Stored XSS
 CVE-2021-47730 - Selea Targa IP OCR-ANPR Camera CSRF Add Admin Exploit
 CVE-2021-47731 - Selea Targa IP OCR-ANPR Camera Developer Backdoor Config Overwrite
+CVE-2021-47739 - Epic Games Easy Anti-Cheat 4.0 Local Privilege Escalation via Unquoted Service Path
 CVE-2022-0365 - Ricon Industrial Cellular Router S9922XL Remote Command Execution
 CVE-2022-4621 - Panasonic Sanyo CCTV Network Camera 2.03-0x CSRF Disable Authentication / Change Password
 CVE-2022-25359 - ICL ScadaFlex II SCADA Controllers SC-1/SC-2 1.03.07 Remote File CRUD
