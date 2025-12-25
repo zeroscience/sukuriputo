@@ -154,6 +154,30 @@ CVE-2018-10619 - Rockwell Automation RSLinx Classic and FactoryTalk Linx Gateway
 CVE-2018-17912 - SAUTER CASE Suite XML External Entity Injection Remote Arbitrary Data Retrieval
 CVE-2018-18428 - TP-Link TL-SC3130 1.6.18 Unauthenticated RTSP Stream Disclosure Vulnerability
 CVE-2018-19009 - Pilz PNOZmulti Configurator Cleartext Storage of Sensitive Information
+CVE-2018-25127 - SOCA Access Control System 180612 Cross-Site Request Forgery via Admin Interface
+CVE-2018-25128 - SOCA Access Control System 180612 SQL Injection and Authentication Bypass
+CVE-2018-25129 - SOCA Access Control System 180612 Information Disclosure via Multiple Endpoints
+CVE-2018-25130 - Beward Intercom 2.3.1 Local Credentials Disclosure via Unencrypted Database
+CVE-2018-25131 - Leica Geosystems GR10/GR25/GR30/GR50 GNSS 4.30.063 Stored XSS via Config Upload
+CVE-2018-25133 - Synaccess netBooter NP-0801DU 7.4 Cross-Site Request Forgery via Admin Interface
+CVE-2018-25134 - Synaccess netBooter NP-02x/NP-08x 6.8 Authentication Bypass via webNewAcct.cgi
+CVE-2018-25135 - Anviz AIM CrossChex Standard 4.3.6.0 CSV Injection via User Import
+CVE-2018-25136 - FLIR Brickstream 3D+ 2.1.742.1842 Unauthenticated RTSP Stream Disclosure
+CVE-2018-25137 - FLIR Brickstream 3D+ 2.1.742.1842 Unauthenticated Config File Disclosure
+CVE-2018-25138 - FLIR AX8 Thermal Camera 1.32.16 Hard-Coded Credentials Authentication Bypass
+CVE-2018-25139 - FLIR AX8 Thermal Camera 1.32.16 Unauthenticated RTSP Stream Disclosure
+CVE-2018-25140 - FLIR Thermal Traffic Cameras V1.01-0bb5b27 Unauthenticated Websocket Device Manipulation
+CVE-2018-25141 - FLIR Thermal Traffic Cameras V1.01-0bb5b27 Unauthenticated RTSP Stream Disclosure
+CVE-2018-25142 - NovaRad NovaPACS Diagnostics Viewer 8.5 XML External Entity Injection
+CVE-2018-25143 - Microhard Systems IPn4G 1.1.0 Backdoor Jailbreak via Microhard Sh Service
+CVE-2018-25144 - Microhard Systems IPn4G 1.1.0 Arbitrary File Access via Undocumented System Editor
+CVE-2018-25145 - Microhard Systems IPn4G 1.1.0 Configuration Disclosure via Authenticated Download
+CVE-2018-25146 - Microhard Systems IPn4G 1.1.0 Service Control Denial of Service
+CVE-2018-25147 - Microhard Systems IPn4G 1.1.0 Default Credentials Authentication Bypass
+CVE-2018-25148 - Microhard Systems IPn4G 1.1.0 Remote Code Execution via Admin Interface
+CVE-2018-25149 - Microhard Systems IPn4G 1.1.0 Cross-Site Request Forgery via Web Interface
+CVE-2018-25155 - Teradek Slice 7.3.15 Cross-Site Request Forgery via Password Change
+CVE-2018-25156 - Teradek Cube 7.3.6 Cross-Site Request Forgery Password Change
 CVE-2019-1262 - Microsoft SharePoint 2013 SP1 Stored XSS Vulnerability
 CVE-2019-7266 - Nortek Linear eMerge 50P/5000P 4.6.07 Authentication Bypass Remote Code Execution
 CVE-2019-7267 - Nortek Linear eMerge 50P/5000P 4.6.07 Directory Traversal
@@ -207,6 +231,32 @@ CVE-2019-13927 - Siemens Desigo PX V6.00 Web Remote Denial of Service Exploit
 CVE-2019-15827 - WordPress Plugin OneSignal 1.17.5 Persistent Cross-Site Scripting
 CVE-2019-18245 - Reliable Controls LicenseManager 3.4 Privilege Escalation
 CVE-2019-18249 - Reliable Controls MACH-ProWeb 2.10 Reflected XSS Vulnerability
+CVE-2019-25233 - AVE DOMINAplus 1.10.x Cross-Site Request Forgery and XSS Vulnerabilities
+CVE-2019-25234 - Carlo Gavazzi SmartHouse Webapp 6.5.33 Cross-Site Request Forgery and XSS
+CVE-2019-25235 - Smartwares HOME easy 1.0.9 Client-Side Authentication Bypass via Web Pages
+CVE-2019-25236 - iSeeQ Hybrid DVR WH-H4 1.03R Unauthenticated Live Stream Disclosure
+CVE-2019-25237 - V-SOL GPON/EPON OLT Platform 2.03 Privilege Escalation via User Role Parameter
+CVE-2019-25238 - V-SOL GPON/EPON OLT Platform 2.03 Cross-Site Request Forgery Vulnerability
+CVE-2019-25239 - V-SOL GPON/EPON OLT Platform 2.03 Unauthenticated Configuration Download
+CVE-2019-25240 - Rifatron Intelligent Digital Security System (animate.cgi) Stream Disclosure
+CVE-2019-25241 - FaceSentry Access Control System 6.4.8 Remote SSH Root Access
+CVE-2019-25242 - FaceSentry Access Control System 6.4.8 Cross-Site Request Forgery via Web Interface
+CVE-2019-25243 - FaceSentry 6.4.8 Authenticated Remote Command Injection via Ping Test
+CVE-2019-25244 - Legrand BTicino Driver Manager F454 1.0.51 CSRF and Stored XSS Vulnerabilities
+CVE-2019-25245 - Ross Video DashBoard 8.5.1 Privilege Escalation via Insecure Permissions
+CVE-2019-25246 - Beward N100 H.264 VGA IP Camera M2.1.6 Authenticated File Disclosure
+CVE-2019-25247 - Beward N100 H.264 VGA IP Camera M2.1.6 CSRF Add Admin Vulnerability
+CVE-2019-25248 - Beward N100 M2.1.6 Unauthenticated RTSP Video Stream Disclosure
+CVE-2019-25249 - devolo dLAN 500 AV Wireless+ 3.1.0-1 Remote Code Execution via htmlmgr
+CVE-2019-25250 - devolo dLAN 500 AV Wireless+ 3.1.0-1 Cross-Site Request Forgery
+CVE-2019-25251 - Teradek VidiU Pro 3.0.3 Server-Side Request Forgery via RTMP Settings
+CVE-2019-25252 - Teradek VidiU Pro 3.0.3 Cross-Site Request Forgery via Password Change
+CVE-2019-25253 - KYOCERA Net Admin 3.4.0906 Unauthenticated XML External Entity Injection
+CVE-2019-25254 - KYOCERA Net Admin 3.4.0906 Cross-Site Request Forgery via User Administration
+CVE-2019-25255 - VideoFlow Digital Video Protection DVP 2.10 Authenticated Remote Code Execution
+CVE-2019-25256 - VideoFlow Digital Video Protection DVP 2.10 Authenticated Directory Traversal
+CVE-2019-25257 - LogicalDOC Enterprise 7.7.4 Authenticated Command Execution via Binary Path Manipulation
+CVE-2019-25258 - LogicalDOC Enterprise 7.7.4 Multiple Post-Authentication Directory Traversal Vulnerabilities
 CVE-2020-6776 - Bosch PRAESIDEO and PRAESENSA Cross-Site Request Forgery (CSRF)
 CVE-2020-6777 - Bosch PRAESIDEO and PRAESENSA Stored Cross-Site Scripting (XSS)
 CVE-2020-6972 - Honeywell Fire Alarm Web Server (NWS-3) Authentication Bypass By Capture-Replay
