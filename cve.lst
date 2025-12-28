@@ -179,6 +179,7 @@ CVE-2018-25149 - Microhard Systems IPn4G 1.1.0 Cross-Site Request Forgery via We
 CVE-2018-25150 - Ecessa ShieldLink SL175EHQ 10.7.4 Cross-Site Request Forgery via User Configuration
 CVE-2018-25151 - Ecessa WANWorx WVR-30 < 10.7.4 Cross-Site Request Forgery via User Configuration
 CVE-2018-25152 - Ecessa Edge EV150 10.7.4 Cross-Site Request Forgery via User Configuration
+CVE-2018-25154 - GNU Barcode 0.99 Buffer Overflow in Code 93 Encoding Mechanism
 CVE-2018-25155 - Teradek Slice 7.3.15 Cross-Site Request Forgery via Password Change
 CVE-2018-25156 - Teradek Cube 7.3.6 Cross-Site Request Forgery Password Change
 CVE-2019-1262 - Microsoft SharePoint 2013 SP1 Stored XSS Vulnerability
