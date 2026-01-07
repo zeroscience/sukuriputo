@@ -320,6 +320,25 @@ CVE-2020-36901 - UBICOD Medivision Digital Signage 1.5.1 CSRF Add Super Admin
 CVE-2020-36902 - UBICOD Medivision Digital Signage 1.5.1 Privilege Escalation Through Authorization Bypass
 CVE-2020-36903 - Selea CarPlateServer 4.0.1.6 Local Privilege Escalation via Unquoted Service Path
 CVE-2020-36904 - Selea CarPlateServer 4.0.1.6 Remote Program Execution via Configuration Endpoint
+CVE-2020-36905 - FIBARO System Home Center 5.021 Remote File Inclusion via Proxy API
+CVE-2020-36906 - P5 FNIP-8x16A FNIP-4xSH 1.0.20 Cross-Site Request Forgery via User Management
+CVE-2020-36907 - Extreme Networks Aerohive HiveOS <=11.x 11.x Unauthenticated Remote Denial of Service
+CVE-2020-36908 - Secure Computing SnapGear Management Console SG560 3.1.5 Cross-Site Request Forgery via Admin Users
+CVE-2020-36909 - Secure Computing SnapGear Management Console SG560 3.1.5 Arbitrary File Read/Write
+CVE-2020-36910 - Cayin Signage Media Player 3.0 Authenticated Remote Command Injection via NTP Parameter
+CVE-2020-36912 - Plexus anblick Digital Signage Management 3.1.13 Open Redirect via Pagina Parameter
+CVE-2020-36913 - All-Dynamics Software enlogic:show 2.0.2 Session Fixation Authentication Bypass
+CVE-2020-36914 - QiHang Media Web Digital Signage 3.0.9 Cookie Authentication Credentials Disclosure
+CVE-2020-36915 - Adtec Digital SignEdje Digital Signage Player v2.08.28 Default Credentials
+CVE-2020-36916 - TDM Digital Signage PC Player 4.1.0.4 Privilege Escalation via Insecure Permissions
+CVE-2020-36917 - iDS6 DSSPro Digital Signage System 6.2 Cleartext Password Disclosure via Cookie
+CVE-2020-36918 - iDS6 DSSPro Digital Signage System 6.2 Cross-Site Request Forgery via User Management
+CVE-2020-36920 - iDS6 DSSPro Digital Signage System 6.2 Privilege Escalation via Access Control
+CVE-2020-36921 - RED-V Super Digital Signage System 5.1.1 Log Information Disclosure Vulnerability
+CVE-2020-36922 - Sony BRAVIA Digital Signage 1.7.8 Unauthenticated System API Information Disclosure
+CVE-2020-36923 - Sony BRAVIA Digital Signage 1.7.8 Client-Side Protection Bypass via IDOR
+CVE-2020-36924 - Sony BRAVIA Digital Signage 1.7.8 Unauthenticated Remote File Inclusion
+CVE-2020-36925 - Arteco Web Client DVR/NVR Session ID Brute Force Authentication Bypass
 CVE-2021-4463 - Longjing Technology BEMS API 1.21 Remote Arbitrary File Download
 CVE-2021-4465 - ReQuest Serious Play F3 Media Server 7.0.3 Remote Denial of Service
 CVE-2021-26549 - SmartFoxServer 2X 2.17.0 God Mode Console WebSocket XSS
