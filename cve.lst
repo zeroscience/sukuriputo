@@ -142,6 +142,11 @@ CVE-2017-20117 - TrueConf Server v4.3.7 Multiple Remote Web Vulnerabilities
 CVE-2017-20118 - TrueConf Server v4.3.7 Multiple Remote Web Vulnerabilities
 CVE-2017-20119 - TrueConf Server v4.3.7 Multiple Remote Web Vulnerabilities
 CVE-2017-20120 - TrueConf Server v4.3.7 Multiple Remote Web Vulnerabilities
+CVE-2017-20212 - FLIR Thermal Camera F/FC/PT/D 8.0.0.64 Information Disclosure via File Reading
+CVE-2017-20213 - FLIR Thermal Camera F/FC/PT/D Stream 8.0.0.64 Unauthenticated Stream Disclosure
+CVE-2017-20214 - FLIR Thermal Camera F/FC/PT/D firmware version 8.0.0.64 Hard-Coded SSH Credentials Vulnerability
+CVE-2017-20215 - FLIR Thermal Camera FC-S/PT firmware version 8.0.0.64 Authenticated OS Command Injection
+CVE-2017-20216 - FLIR Thermal Camera PT-Series firmware version 8.0.0.64 Unauthenticated Remote Command Injection
 CVE-2018-7236 - Schneider Electric Pelco Sarix/Spectra Cameras CSRF Enable SSH Root Access
 CVE-2018-7783 - Schneider Electric EcoStruxure Machine Experts SoMachine Basic 1.6.0 XXE OOB Remote Arbitrary Data Retrieval
 CVE-2018-7827 - Schneider Electric Pelco Sarix/Spectra Cameras Multiple XSS Vulnerabilities
@@ -235,6 +240,7 @@ CVE-2019-13927 - Siemens Desigo PX V6.00 Web Remote Denial of Service Exploit
 CVE-2019-15827 - WordPress Plugin OneSignal 1.17.5 Persistent Cross-Site Scripting
 CVE-2019-18245 - Reliable Controls LicenseManager 3.4 Privilege Escalation
 CVE-2019-18249 - Reliable Controls MACH-ProWeb 2.10 Reflected XSS Vulnerability
+CVE-2019-25231 - devolo dLAN Cockpit 4.3.1 Unquoted Service Path Privilege Escalation
 CVE-2019-25233 - AVE DOMINAplus 1.10.x Cross-Site Request Forgery and XSS Vulnerabilities
 CVE-2019-25234 - Carlo Gavazzi SmartHouse Webapp 6.5.33 Cross-Site Request Forgery and XSS
 CVE-2019-25235 - Smartwares HOME easy 1.0.9 Client-Side Authentication Bypass via Web Pages
@@ -261,6 +267,18 @@ CVE-2019-25255 - VideoFlow Digital Video Protection DVP 2.10 Authenticated Remot
 CVE-2019-25256 - VideoFlow Digital Video Protection DVP 2.10 Authenticated Directory Traversal
 CVE-2019-25257 - LogicalDOC Enterprise 7.7.4 Authenticated Command Execution via Binary Path Manipulation
 CVE-2019-25258 - LogicalDOC Enterprise 7.7.4 Multiple Post-Authentication Directory Traversal Vulnerabilities
+CVE-2019-25259 - Leica Geosystems GR10/GR25/GR30/GR50 GNSS 4.30.063 Cross-Site Request Forgery
+CVE-2019-25268 - NREL BEopt 2.8.0 Insecure Library Loading Arbitrary Code Execution
+CVE-2019-25270 - SOCA Access Control System 180612 Reflected Cross-Site Scripting via logged_page.php
+CVE-2019-25277 - FaceSentry Access Control System 6.4.8 Reflected Cross-Site Scripting via pluginInstall.php
+CVE-2019-25278 - FaceSentry Access Control System 6.4.8 Authentication Credentials MiTM Disclosure
+CVE-2019-25279 - FaceSentry Access Control System 6.4.8 Cleartext Password Storage Vulnerability
+CVE-2019-25280 - Yahei-PHP Prober 0.4.7 Remote HTML Injection via Speed Parameter
+CVE-2019-25282 - V-SOL GPON/EPON OLT Platform V2.03.62R_IPv6 v2.03 Open Redirect via bindProfile.html
+CVE-2019-25284 - V-SOL GPON/EPON OLT Platform V2.03.62R_IPv6 v2.03 Reflected Cross-Site Scripting Vulnerability
+CVE-2019-25289 - INIM Electronics SmartLiving SmartLAN/G/SI <=6.x Remote Command Execution
+CVE-2019-25290 - INIM Electronics Smartliving SmartLAN/G/SI <=6.x Unauthenticated SSRF via GetImage
+CVE-2019-25291 - INIM Electronics Smartliving SmartLAN/G/SI <=6.x Hard-coded Credentials Vulnerability
 CVE-2020-6776 - Bosch PRAESIDEO and PRAESENSA Cross-Site Request Forgery (CSRF)
 CVE-2020-6777 - Bosch PRAESIDEO and PRAESENSA Stored Cross-Site Scripting (XSS)
 CVE-2020-6972 - Honeywell Fire Alarm Web Server (NWS-3) Authentication Bypass By Capture-Replay
