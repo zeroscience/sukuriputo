@@ -668,3 +668,5 @@ CVE-2025-34518 - Ilevia EVE X1 Server 4.7.18.0.eden Parameter Traversal Arbitrar
 CVE-2025-34519 - Ilevia EVE X1 Server 4.7.18.0.eden Insecure Hashing Algorithm
 CVE-2025-53187 - ABB Cylon Aspect 3.08.04-s01 (DeploySource) Unauthenticated Remote Code Execution
 CVE-2026-25872 - JUNG Smart Panel 5.1 KNX Unauthenticated Absolute File Path Traversal
+CVE-2026-26234 - JUNG Smart Visu Server 1.1.1050 Request URL Override
+CVE-2026-26235 - JUNG Smart Visu Server 1.1.1050 Remote Server Shutdown
