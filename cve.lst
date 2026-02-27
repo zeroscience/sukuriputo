@@ -670,6 +670,9 @@ CVE-2025-53187 - ABB Cylon Aspect 3.08.04-s01 (DeploySource) Unauthenticated Rem
 CVE-2026-25872 - JUNG Smart Panel 5.1 KNX Unauthenticated Absolute File Path Traversal
 CVE-2026-26234 - JUNG Smart Visu Server 1.1.1050 Request URL Override
 CVE-2026-26235 - JUNG Smart Visu Server 1.1.1050 Remote Server Shutdown
+CVE-2026-26340 - Tattile Smart+ / Vega / Basic <= 1.181.5 Unauthenticated RTSP Stream Disclosure
+CVE-2026-26341 - Tattile Smart+ / Vega / Basic <= 1.181.5 Default Credentials
+CVE-2026-26342 - Tattile Smart+ / Vega / Basic <= 1.181.5 Insufficient Session Token Expiration
 CVE-2026-26366 - JUNG eNet SMART HOME server 2.2.1/2.3.1 Use of Default Credentials
 CVE-2026-26367 - JUNG eNet SMART HOME server 2.2.1/2.3.1 Arbitrary User Deletion via deleteUserAccount
 CVE-2026-26368 - JUNG eNet SMART HOME server 2.2.1/2.3.1 Account Takeover via resetUserPassword
