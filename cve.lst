@@ -55,9 +55,10 @@ CVE-2012-2905 - Artiphp CMS 5.5.0 Database Backup Disclosure Exploit
 CVE-2012-2906 - Artiphp CMS v5.5.0 Multiple XSS POST Injection Vulnerabilities
 CVE-2012-2910 - phpThumb() v1.7.11 (dir & title) Cross-Site Scripting Vulnerability
 CVE-2012-2911 - backupDB() v1.2.7a (onlyDB) Remote XSS Vulnerability
-CVE-2012-3836 - Baby Gekko CMS v1.1.5c Multiple Stored Cross-Site Scripting Vulnerabilities
+CVE-2012-3836 - Baby Gekko CMS v1.1.5c Multiple Stored Cross-Site Scripting Vulnerabilitie
 CVE-2012-4754 - Mindjet MindManager 2012 v10.0.493 Multiple Remote Vulnerabilities
 CVE-2012-4755 - SciTools Understand 2.6 (wintab32.dll) DLL Loading Arbitrary Code Execution
+CVE-2012-4773 - Subrion CMS 2.2.1 CSRF Add Admin Exploit
 CVE-2012-4864 - Oreans WinLicense v2.1.8.0 XML File Handling Unspecified Memory Corruption
 CVE-2012-4865 - Oreans Themida v2.1.8.0 TMD File Handling Buffer Overflow Vulnerability
 CVE-2012-5324 - Tracker Software pdfSaver ActiveX 3.60 (pdfxctrl.dll) Stack Buffer Overflow (SEH)
@@ -65,11 +66,12 @@ CVE-2012-5343 - Limny 3.0.1 (login.php) Remote URI Based Cross-Site Scripting Vu
 CVE-2013-1469 - Piwigo 2.4.6 (install.php) Remote Arbitrary File Read/Delete Vulnerability
 CVE-2013-2226 - GLPI v0.83.8 Multiple Error-based SQL Injection Vulnerabilities
 CVE-2013-2227 - GLPI v0.83.7 (itemtype) Parameter Traversal Arbitrary File Access Exploit
-CVE-2012-4773 - Subrion CMS 2.2.1 CSRF Add Admin Exploit
 CVE-2013-5123 - phlyLabs phlyMail Lite 4.03.04 (go param) Open Redirect Vulnerability
 CVE-2013-5319 - Atlassian JIRA v6.0.3 Arbitrary HTML/Script Execution Vulnerability
 CVE-2013-3535 - CMSLogik 1.2.1 Multiple Persistent XSS Vulnerabilities
 CVE-2013-5640 - Gnew v2013.1 Multiple XSS And SQL Injection Vulnerabilities
+CVE-2013-20005 - Qool CMS v2.0 RC2 XSRF Add Root Exploit
+CVE-2013-20006 - Qool CMS v2.0 RC2 Multiple HTML And JavaScript Injection Vulnerabilities
 CVE-2014-3222 - Huawei Technologies eSpace Meeting Service 1.0.0.23 Local Privilege Escalation
 CVE-2014-4034 - ZeroCMS 1.0 (article_id) SQL Injection Vulnerability
 CVE-2014-4334 - Ubisoft Rayman Legends v1.2.103716 Remote Stack Buffer Overflow Vulnerability
@@ -125,9 +127,31 @@ CVE-2015-7902 - Mango Automation 2.6.0 User Enumeration Weakness
 CVE-2015-7903 - Mango Automation 2.6.0 CSRF Arbitrary SQL Query Execution
 CVE-2015-7904 - Mango Automation 2.6.0 CSRF File Upload And Arbitrary JSP Code Execution
 CVE-2015-8979 - DCMTK storescp DICOM storage (C-STORE) SCP Remote Stack Buffer Overflow
+CVE-2015-20113 - RealtyScript 4.0.2 Multiple CSRF and Persistent XSS Vulnerabilities
+CVE-2015-20114 - RealtyScript 4.0.2 Cross-Site Scripting via Multiple Parameters
+CVE-2015-20115 - RealtyScript 4.0.2 Stored Cross-Site Scripting via File Upload Parameter
+CVE-2015-20116 - RealtyScript 4.0.2 Stored Cross-Site Scripting via CSV File Upload Filename
+CVE-2015-20117 - RealtyScript 4.0.2 Cross-Site Request Forgery Unauthorized User Creation
+CVE-2015-20118 - RealtyScript 4.0.2 Stored Cross-Site Scripting via location_name Parameter
+CVE-2015-20119 - RealtyScript 4.0.2 Stored Cross-Site Scripting via text Parameter in pages.php
+CVE-2015-20120 - RealtyScript 4.0.2 Multiple Time-based Blind SQL Injection
+CVE-2015-20121 - RealtyScript 4.0.2 SQL Injection via u_id and agent Parameters
 CVE-2016-1606 - Micro Focus Rumba+ v9.4 Multiple Stack Buffer Overflow Vulnerabilities
 CVE-2016-3968 - Sophos Cyberoam NG Series Multiple Cross-Site Scripting Vulnerabilities
 CVE-2016-5228 - Micro Focus Rumba+ v9.4 Multiple Stack Buffer Overflow Vulnerabilities
+CVE-2016-20024 - ZKTeco ZKTime.Net 3.0.1.6 Insecure File Permissions
+CVE-2016-20025 - ZKTeco ZKAccess Professional 3.5.3 Insecure File Permissions
+CVE-2016-20026 - ZKTeco ZKBioSecurity 3.0 Hardcoded Credentials Remote SYSTEM Code Execution
+CVE-2016-20027 - ZKTeco ZKBioSecurity 3.0 Multiple XSS Vulnerabilities
+CVE-2016-20028 - ZKTeco ZKBioSecurity 3.0 CSRF Add Superadmin Exploit
+CVE-2016-20029 - ZKTeco ZKBioSecurity 3.0 File Path Manipulation Vulnerability
+CVE-2016-20030 - ZKTeco ZKBioSecurity 3.0 User Enumeration Weakness
+CVE-2016-20031 - ZKTeco ZKBioSecurity 3.0 (visLogin.jsp) Local Authorization Bypass
+CVE-2016-20032 - ZKTeco ZKAccess Security System 5.3.1 Stored XSS Vulnerability
+CVE-2016-20033 - Wowza Streaming Engine 4.5.0 Local Privilege Escalation via nssm_x64.exe
+CVE-2016-20034 - Wowza Streaming Engine 4.5.0 Remote Privilege Escalation via user edit
+CVE-2016-20035 - Wowza Streaming Engine 4.5.0 CSRF Add Advanced Admin Exploit
+CVE-2016-20036 - Wowza Streaming Engine 4.5.0 Multiple Cross-Site Scripting Vulnerabilities
 CVE-2017-9640 - Automated Logic WebCTRL 6.1 Path Traversal Arbitrary File Write
 CVE-2017-9644 - Automated Logic WebCTRL 6.5 Insecure File Permissions Privilege Escalation
 CVE-2017-9650 - Automated Logic WebCTRL 6.5 Unrestricted File Upload Remote Code Execution
@@ -147,6 +171,14 @@ CVE-2017-20213 - FLIR Thermal Camera F/FC/PT/D Stream 8.0.0.64 Unauthenticated S
 CVE-2017-20214 - FLIR Thermal Camera F/FC/PT/D firmware version 8.0.0.64 Hard-Coded SSH Credentials Vulnerability
 CVE-2017-20215 - FLIR Thermal Camera FC-S/PT firmware version 8.0.0.64 Authenticated OS Command Injection
 CVE-2017-20216 - FLIR Thermal Camera PT-Series firmware version 8.0.0.64 Unauthenticated Remote Command Injection
+CVE-2017-20217 - Serviio PRO 1.8 DLNA Media Streaming Server REST API Information Disclosure
+CVE-2017-20218 - Serviio PRO 1.8 DLNA Media Streaming Server Local Privilege Escalation
+CVE-2017-20219 - Serviio PRO 1.8 DLNA Media Streaming Server (mediabrowser) DOM Based XSS
+CVE-2017-20220 - Serviio PRO 1.8 DLNA Media Streaming Server REST API Arbitrary Password Change
+CVE-2017-20221 - Telesquare SKT LTE Router SDT-CS3B1 CSRF System Command Execution
+CVE-2017-20222 - Telesquare SKT LTE Router SDT-CS3B1 Unauthenticated Remote Reboot
+CVE-2017-20223 - Telesquare SKT LTE Router SDT-CS3B1 Insecure Direct Object Reference
+CVE-2017-20224 - Telesquare SKT LTE Router SDT-CS3B1 WebDAV HTTP Methods Arbitrary File Events
 CVE-2018-7236 - Schneider Electric Pelco Sarix/Spectra Cameras CSRF Enable SSH Root Access
 CVE-2018-7783 - Schneider Electric EcoStruxure Machine Experts SoMachine Basic 1.6.0 XXE OOB Remote Arbitrary Data Retrieval
 CVE-2018-7827 - Schneider Electric Pelco Sarix/Spectra Cameras Multiple XSS Vulnerabilities
