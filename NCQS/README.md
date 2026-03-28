@@ -1,6 +1,6 @@
 # nginx-conf-qs (NCQS) – Nginx Configuration Quick Scan
 
-`nginx-conf-qs` is a static security scanner designed to audit Nginx configuration files and related infrastructure code. It performs a deep inspection of configuration directories and highlights misconfigurations that weaken security across Nginx, Kubernetes, AWS environments, and YAML-based deployment files.
+nginx-conf-qs is a static security scanner designed to audit Nginx configuration files and related infrastructure code. It performs a deep inspection of configuration directories and highlights misconfigurations that weaken security across Nginx, Kubernetes, AWS environments, and YAML-based deployment files.
 
 ## Core Capabilities
 
