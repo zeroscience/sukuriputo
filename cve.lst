@@ -389,6 +389,7 @@ CVE-2020-36922 - Sony BRAVIA Digital Signage 1.7.8 Unauthenticated System API In
 CVE-2020-36923 - Sony BRAVIA Digital Signage 1.7.8 Client-Side Protection Bypass via IDOR
 CVE-2020-36924 - Sony BRAVIA Digital Signage 1.7.8 Unauthenticated Remote File Inclusion
 CVE-2020-36925 - Arteco Web Client DVR/NVR Session ID Brute Force Authentication Bypass
+CVE-2020-37228 - iDS6 DSSPro Digital Signage System 6.2 CAPTCHA Security Bypass
 CVE-2021-4463 - Longjing Technology BEMS API 1.21 Remote Arbitrary File Download
 CVE-2021-4465 - ReQuest Serious Play F3 Media Server 7.0.3 Remote Denial of Service
 CVE-2021-26549 - SmartFoxServer 2X 2.17.0 God Mode Console WebSocket XSS
