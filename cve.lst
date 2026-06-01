@@ -718,3 +718,4 @@ CVE-2026-40041 - Pachno 1.0.6 Cross-Site Request Forgery
 CVE-2026-40042 - Pachno 1.0.6 Wiki TextParser XXE Vulnerability
 CVE-2026-40043 - Pachno 1.0.6 (runSwitchUser()) Remote Vertical Privilege Escalation
 CVE-2026-40044 - Pachno 1.0.6 FileCache Deserialization Remote Code Execution
+CVE-2026-48559 - Lightweight Music Server (LMS) 3.76.0 (metadata) Stored XSS
