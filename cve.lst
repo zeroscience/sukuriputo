@@ -719,3 +719,9 @@ CVE-2026-40042 - Pachno 1.0.6 Wiki TextParser XXE Vulnerability
 CVE-2026-40043 - Pachno 1.0.6 (runSwitchUser()) Remote Vertical Privilege Escalation
 CVE-2026-40044 - Pachno 1.0.6 FileCache Deserialization Remote Code Execution
 CVE-2026-48559 - Lightweight Music Server (LMS) 3.76.0 (metadata) Stored XSS
+CVE-2026-50230 - Lyrion Music Server 9.2.0 (server.log) Unauthenticated Reflected XSS
+CVE-2026-50231 - Lyrion Music Server 9.2.0 (server.log) Unauthenticated Stored XSS
+CVE-2026-50232 - Lyrion Music Server 9.2.0 Stored XSS via Metadata Tags
+CVE-2026-50233 - Lyrion Music Server 9.2.0 Arbitrary Directory Listing
+CVE-2026-50234 - Lyrion Music Server 9.2.0 Path Traversal File Read
+CVE-2026-50235 - Lyrion Music Server 9.2.0 (search.*) Multiple Script Insertions
