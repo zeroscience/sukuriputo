@@ -725,3 +725,9 @@ CVE-2026-50232 - Lyrion Music Server 9.2.0 Stored XSS via Metadata Tags
 CVE-2026-50233 - Lyrion Music Server 9.2.0 Arbitrary Directory Listing
 CVE-2026-50234 - Lyrion Music Server 9.2.0 Path Traversal File Read
 CVE-2026-50235 - Lyrion Music Server 9.2.0 (search.*) Multiple Script Insertions
+CVE-2026-58475 - SIP Sustainable Irrigation Platform 5.x Stored XSS
+CVE-2026-58476 - SIP Sustainable Irrigation Platform 5.x CSRF Disable Passphrase Authorization
+CVE-2026-58477 - SIP Sustainable Irrigation Platform 5.x (cv) Settings Mass Assignment
+CVE-2026-58478 - SIP Sustainable Irrigation Platform 5.x (nr-url) Blind SSRF
+CVE-2026-58479 - SIP Sustainable Irrigation Platform 5.x (cli_control) Remote Code Execution
+CVE-2026-60114 - SIP Sustainable Irrigation Platform 5.x Path Traversal in Backup/Restore
