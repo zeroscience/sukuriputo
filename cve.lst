@@ -733,3 +733,4 @@ CVE-2026-58479 - SIP Sustainable Irrigation Platform 5.x (cli_control) Remote Co
 CVE-2026-60114 - SIP Sustainable Irrigation Platform 5.x Path Traversal in Backup/Restore
 CVE-2026-67596 - CSL 1010 M2M 3G WiFi Module 2.2.1.4 (Router.cfg) Weak XOR Encryption
 CVE-2026-67607 - LightFTP 2.3.1 Race Condition DoS via worker_thread_cleanup
+CVE-2026-70637 - LightFTP 2.4 Data Race Condition via ABOR Command in ftpserv.c
