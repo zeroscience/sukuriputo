@@ -736,3 +736,4 @@ CVE-2026-67607 - LightFTP 2.3.1 Race Condition DoS via worker_thread_cleanup
 CVE-2026-70637 - LightFTP 2.4 Data Race Condition via ABOR Command in ftpserv.c
 CVE-2026-82331 - Apache BuildStream 2.8.0 (symlink) Arbitrary File Write
 CVE-2026-88763 - Red Hat Service Interconnect 2 Skupper-router Stack Overflow DoS
+CVE-2026-90979 - Apache Karaf 4.4.11 JAAS LDAP Login Modules LDAP Filter Injection
