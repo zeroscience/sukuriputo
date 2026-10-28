@@ -739,5 +739,6 @@ CVE-2026-80277 - Apache OzHera 2.2.6 Authenticated SQL Injection
 CVE-2026-82331 - Apache BuildStream 2.8.0 (symlink) Arbitrary File Write
 CVE-2026-88763 - Red Hat Service Interconnect 2 Skupper-router Stack Overflow DoS (Apache Qpid Dispatch Router 1.19.0 Remote Stack Overflow)
 CVE-2026-90979 - Apache Karaf 4.4.11 JAAS LDAP Login Modules LDAP Filter Injection
+CVE-2026-105042 - Apache Qpid Proton C API 0.40.0 Remote Stack Overflow
 CVE-2026-113504 - Apache Airflow 3.3.2 (mask_secret()) Secrets Masker Deep-Nesting Secret Leak
 CVE-2026-115721 - Apache MINA Vysper 0.7 Unbounded XML Buffer Pre-Auth DoS
